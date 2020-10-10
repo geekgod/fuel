@@ -1,0 +1,2228 @@
+# http://creativecommons.org/licenses/by-sa/3.0/
+# Website: http://www.fuelproject.org
+# Community Wiki: https://fedorahosted.org/fuel
+# Mailing List: fuel-discuss@lists.fedorahosted.org
+# Issues: https://fedorahosted.org/fuel/newticket
+# Initial Proposed Translation by Ravi Ratlami, Karunakar G and Prabhas Ranjan
+# Reviewed by Komal Gandhi, Vishakha Dhutadmal, Sangeeta Kumari, Karunakar G, Arpit Singhal, Talha Anwar, Chandan Baba, Harish Kumawat, Meghraj Suthar, Ravi Kumbhkar, Nishant Singh, Shahid Farooqui, Umesh Agarwal, Ashish Namdev,  Suraj Kawade, Chandan Kumar, Deep Raj, Ankit Gadgil, Chandrakant Dhutadmal, Rajesh Ranjan
+# FUEL Mobile Hindi reviewed in Mozilla Hindi Meetup 11-12 OCT 2014 at C-DAC GIST, Pune. 
+# https://wiki.mozilla.org/India/Mozilla_Hindi_Community_Meet-up_and_Fennec_Launch
+# https://reps.mozilla.org/e/mozilla-hindi-community-meet-up/
+
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-04-23 11:19+0530\n"
+"PO-Revision-Date: 2014-10-12 17:03+0630\n"
+"Last-Translator: FUEL Project <FUEL PROJECT>\n"
+"Language-Team: Hindi <indlinux-hindi@lists.sourceforge.net>\n"
+"Language: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 1.5\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Applications:
+#. Context: Clock selection for 12-hour clock
+msgid "12 Hour"
+msgstr "12 घंटे"
+
+#. Applications:
+#. Context: Clock selection for 24-hour clock
+msgid "24 Hour"
+msgstr "24 घंटे"
+
+#. Applications:
+#. Context: Information about Application
+msgid "About Application"
+msgstr "अनुप्रयोग परिचय"
+
+#. Applications:
+#. Context: It shows accessibility function
+msgid "Accessibility"
+msgstr "पहुँच"
+
+#. Applications:
+#. Context: To make active
+msgid "Activate"
+msgstr "सक्रिय करें"
+
+#. Applications:
+#. Context: To make active the handset
+msgid "Activate Handset"
+msgstr "हैंडसेट सक्रिय करें"
+
+#. Applications:
+#. Context: To add bookmark
+msgid "Add Bookmark"
+msgstr "पुस्तचिह्न जोड़ें"
+
+#. Applications:
+#. Context: To add contact
+msgid "Add Contact"
+msgstr "संपर्क जोड़ें"
+
+#. Applications:
+#. Context: To add anything new
+msgid "Add New"
+msgstr "नया जोड़ें"
+
+#. Applications:
+#. Context: To add any new device like bluetooth
+msgid "Add New Device"
+msgstr "नया उपकरण जोड़ें"
+
+#. Applications:
+#. Context: To add to the album
+msgid "Add to Album"
+msgstr "एल्बम में जोड़ें"
+
+#. Applications:
+#. Context: To add to the Contact
+msgid "Add to Contact"
+msgstr "संपर्क में जोड़ें"
+
+#. Applications:
+#. Context: To add to Home Screen
+msgid "Add to Home Screen"
+msgstr "मुख्य स्क्रीन में जोड़ें"
+
+#. Applications:
+#. Context: To add to Playlist
+msgid "Add to Playlist"
+msgstr "प्लेलिस्ट में जोड़ें"
+
+#. Applications:
+#. Context: Technically Advanced Settings
+msgid "Advanced"
+msgstr "उन्नत"
+
+#. Applications:
+#. Context: A setting to disable cellular, Wi-Fi, and Bluetooth during plane journey due to technical reason of aircraft operation
+msgid "Airplane Mode"
+msgstr "विमान मोड"
+
+#. Applications:
+#. Context: Clock with alarm
+msgid "Alarm Clock"
+msgstr "अलार्म"
+
+#. Applications:
+#. Context: Alarm is off
+msgid "Alarm Off"
+msgstr "अलार्म बंद"
+
+#. Applications:
+#. Context: Alarm is on
+msgid "Alarm On"
+msgstr "अलार्म चालू"
+
+#. Applications:
+#. Context: It is an action of alarm only once means no snooze after that
+msgid "Alarm Once"
+msgstr "एकल अलार्म"
+
+#. Applications:
+#. Context: Time of Alarm
+msgid "Alarm Time"
+msgstr "अलार्म समय"
+
+#. Applications:
+#. Context: Tone of Alarm
+msgid "Alarm Tone"
+msgstr "अलार्म टोन"
+
+#. Applications:
+#. Context: A collection of audio, video or pictures related to particular purpose
+msgid "Album"
+msgstr "एल्बम"
+
+#. Applications:
+#. Context: It means everything
+msgid "All"
+msgstr "सभी"
+
+#. Applications:
+#. Context: To do anything in one time
+msgid "All at Once"
+msgstr "सभी एक साथ"
+
+#. Applications:
+#. Context: Marking everything as read
+msgid "All Read"
+msgstr "सभी पठित"
+
+#. Applications:
+#. Context: All of the ringtones
+msgid "All Ringtones"
+msgstr "सभी रिंगटोन"
+
+#. Applications:
+#. Context: All of the songs
+msgid "All Songs"
+msgstr "सभी गाने"
+
+#. Applications:
+#. Context: To reply the call
+msgid "Answer Call"
+msgstr "उत्तर दें"
+
+#. Applications:
+#. Context: It is like Apps Store
+msgid "Application Manager"
+msgstr "अनुप्रयोग प्रबंधक"
+
+#. Applications:
+#. Context: Network Area
+msgid "Area"
+msgstr "क्षेत्र"
+
+#. Applications:
+#. Context: Network Area Code
+msgid "Area Code"
+msgstr "क्षेत्र कोड"
+
+#. Applications:
+#. Context: Selection of Performer of Music or Video
+msgid "Artist"
+msgstr "कलाकार"
+
+#. Applications:
+#. Context: Selection of Artist and Album
+msgid "Artists and Albums"
+msgstr "कलाकार और एल्बम"
+
+#. Applications:
+#. Context: Moving upward
+msgid "Ascending"
+msgstr "बढ़ते क्रम में"
+
+#. Applications:
+#. Context: automatic
+msgid "Auto"
+msgstr "स्वचालित"
+
+#. Applications:
+#. Context: Automatic update of Date and Time
+msgid "Auto-update of Date and Time"
+msgstr "तिथि व समय का स्वतः अद्यतन"
+
+#. Applications:
+#. Context: Anything that works without outside control, opposite to manual
+msgid "Automatic"
+msgstr "स्वचालित"
+
+#. Applications:
+#. Context: Keyguard that works automatically
+msgid "Automatic Keyguard"
+msgstr "स्वचालित की-गार्ड"
+
+#. Applications:
+#. Context: An option to redial automatically
+msgid "Automatic Redial"
+msgstr "स्वचालित रीडायल"
+
+#. Applications:
+#. Context: A function by which someone retrieve automatically instead manually
+msgid "Automatic Retrieval"
+msgstr "स्वचालित पुनःप्राप्ति"
+
+#. Applications:
+#. Context: to move backward
+msgid "Back"
+msgstr "पीछे"
+
+#. Applications:
+#. Context: Timeout period for backlight screen or button
+msgid "Backlight Timeout"
+msgstr "बैकलाइट समयसीमा"
+
+#. Applications:
+#. Context: Source of Power of any device
+msgid "Battery"
+msgstr "बैटरी"
+
+#. Applications:
+#. Context: profile for incoming phone calls where tone only beep once
+msgid "Beep Once"
+msgstr "एक बार बीप"
+
+#. Applications:
+#. Context: To block popup
+msgid "Block Popup"
+msgstr "पॉपअप रोकें"
+
+#. Applications:
+#. Context: A device
+msgid "Bluetooth"
+msgstr "ब्लूटूथ"
+
+#. Applications:
+#. Context: A preferred selection of links etc that user wants to refer when s/he needs
+msgid "Bookmarks"
+msgstr "पुस्तचिह्न"
+
+#. Applications:
+#. Context: luminance of a screen
+msgid "Brightness"
+msgstr "चमक"
+
+#. Applications:
+#. Context: An Application
+msgid "Calculator"
+msgstr "गणक"
+
+#. Applications:
+#. Context: An application of electronic calendar
+msgid "Calendar"
+msgstr "कैलेंडर"
+
+#. Applications:
+#. Context: An action to bar a call
+msgid "Call Barring"
+msgstr "कॉल प्रतिबंध"
+
+#. Applications:
+#. Context: Action to divert call
+msgid "Call Divert"
+msgstr "कॉल अग्रेषण"
+
+#. Applications:
+#. Context: Duration of call
+msgid "Call Duration"
+msgstr "कॉल अवधि"
+
+#. Applications:
+#. Context: Log of call
+msgid "Call Log"
+msgstr "कॉल लॉग"
+
+#. Applications:
+#. Context: Setting of call
+msgid "Call Settings"
+msgstr "कॉल सेटिंग"
+
+#. Applications:
+#. Context: Summary of call
+msgid "Call Summary"
+msgstr "कॉल सारांश"
+
+#. Applications:
+#. Context: Function that stores information like call duration of received, dialed call etc
+msgid "Call Timers"
+msgstr "कॉल टाइमर"
+
+#. Applications:
+#. Context: Function that tracks the call
+msgid "Call Trackers"
+msgstr "कॉल ट्रैकर"
+
+#. Applications:
+#. Context: function that enable user to suspend the current telephone call and switch to the new incoming call
+msgid "Call Waiting"
+msgstr "कॉल प्रतीक्षा"
+
+#. Applications:
+#. Context: An Application to take picture or video in mobile
+msgid "Camera"
+msgstr "कैमरा"
+
+#. Applications:
+#. Context: To cancel anything
+msgid "Cancel"
+msgstr "रद्द करें"
+
+#. Applications:
+#. Context: A function by which one can cancel all applied barring
+msgid "Cancel All Barrings"
+msgstr "सभी प्रतिबंध रद्द करें"
+
+#. Applications:
+#. Context: To capture photo or screenshot
+msgid "Capture"
+msgstr "खींचें"
+
+#. Applications:
+#. Context: Network Vendor
+msgid "Carrier"
+msgstr "कैरियर"
+
+#. Applications:
+#. Context: function that display carrier or cell phone information
+msgid "Cell Info Display"
+msgstr "फोन जानकारी प्रदर्शक"
+
+#. Applications:
+#. Context: Action to change the access code
+msgid "Change Access Codes"
+msgstr "पहुँच कोड बदलें"
+
+#. Applications:
+#. Context: Action to change the barring password
+msgid "Change Barring Password"
+msgstr "प्रतिबंधक कूटशब्द बदलें"
+
+#. Applications:
+#. Context: Action to change codes
+msgid "Change Codes"
+msgstr "कोड बदलें"
+
+#. Applications:
+#. Context: Action to change PIN codes
+msgid "Change PIN Code"
+msgstr "पिन-कोड बदलें"
+
+#. Applications:
+#. Context: Action to change security codes
+msgid "Change Security Codes"
+msgstr "सुरक्षा कोड बदलें"
+
+#. Applications:
+#. Context: Action to change wall paper
+msgid "Change Wall Paper"
+msgstr "वालपेपर बदलें"
+
+#. Applications:
+#. Context: Online chat
+msgid "Chat"
+msgstr "गपशप"
+
+#. Applications:
+#. Context: to check once status related to anything like certificate status etc
+msgid "Check Status"
+msgstr "स्थिति जाँचें"
+
+#. Applications:
+#. Context: Clock to be shown on a mobile in classic typical form
+msgid "Classic Clock"
+msgstr "क्लासिक घड़ी"
+
+#. Applications:
+#. Context: Action to reset the counter
+msgid "Clear Counter"
+msgstr "काउंटर साफ़ करें"
+
+#. Applications:
+#. Context: To clear the log
+msgid "Clear Log"
+msgstr "लॉग साफ़ करें"
+
+#. Applications:
+#. Context: To clear the private data
+msgid "Clear Private Data"
+msgstr "निजी डाटा मिटाएँ"
+
+#. Applications:
+#. Context: Action to remove private information
+msgid "Clear Text"
+msgstr "पाठ साफ़ करें"
+
+#. Applications:
+#. Context: Action to reset the timers
+msgid "Clear Timers"
+msgstr "टाइमर साफ करें"
+
+#. Applications:
+#. Context: Application
+msgid "Clock"
+msgstr "घड़ी"
+
+#. Applications:
+#. Context: Limited user group
+msgid "Closed User Group"
+msgstr "सीमित उपयोक्ता समूह"
+
+#. Applications:
+#. Context: Type of capturing photo, a type of scene mode
+msgid "Closeup"
+msgstr "क्लोजअप"
+
+#. Applications:
+#. Context: Different Color Schemes
+msgid "Color Schemes"
+msgstr "रंग योजना"
+
+#. Applications:
+#. Context: To write email
+msgid "Compose Email"
+msgstr "ईमेल लिखें"
+
+#. Applications:
+#. Context: To write text message
+msgid "Compose Text Message"
+msgstr "पाठ संदेश लिखें"
+
+#. Applications:
+#. Context: A conference call is a telephone call in which the calling party wishes to have more than one called party to join
+msgid "Conference Call"
+msgstr "कॉन्फ्रेंस कॉल"
+
+#. Applications:
+#. Context: To acknowledge
+msgid "Confirm"
+msgstr "पुष्टि करें"
+
+#. Applications:
+#. Context: To acknowledge the delivery
+msgid "Confirm Delivery"
+msgstr "वितरण पुष्टि"
+
+#. Applications:
+#. Context: To acknowledge that one is already read
+msgid "Confirm Read"
+msgstr "पठन पुष्टि"
+
+#. Applications:
+#. Context: To confirm the SIM Service Action in phone setting
+msgid "Confirm SIM Service Action"
+msgstr "सिम सेवा कार्य पुष्टि"
+
+#. Applications:
+#. Context: The act of confirming
+msgid "Confirmations"
+msgstr "पुष्टिकरण"
+
+#. Applications:
+#. Context: Images of Contacts
+msgid "Contact Images"
+msgstr "संपर्क छवि"
+
+#. Applications:
+#. Context: Name of contacts
+msgid "Contact Name"
+msgstr "संपर्क नाम"
+
+#. Applications:
+#. Context: menu item for contact search
+msgid "Contacts"
+msgstr "संपर्क"
+
+#. Applications:
+#. Context: Application to convert currency, temperature etc
+msgid "Converter"
+msgstr "परिवर्तक"
+
+#. Applications:
+#. Context: To Copy
+msgid "Copy"
+msgstr "नक़ल करें"
+
+#. Applications:
+#. Context: To copy the location
+msgid "Copy Location"
+msgstr "स्थान की नक़ल करें"
+
+#. Applications:
+#. Context: To control the cost of the call or data
+msgid "Cost Control"
+msgstr "ख़र्च नियंत्रण"
+
+#. Applications:
+#. Context: Settings of the Cost
+msgid "Cost Settings"
+msgstr "ख़र्च सेटिंग"
+
+#. Applications:
+#. Context: To create message
+msgid "Create Message"
+msgstr "संदेश लिखें"
+
+#. Applications:
+#. Context: Money of different country eg Rupee, Dollars, Yen etc
+msgid "Currency"
+msgstr "मुद्रा"
+
+#. Applications:
+#. Context: Services related to internet etc
+msgid "Data Services"
+msgstr "डाटा सेवा"
+
+#. Applications:
+#. Context: Setting of the Date
+msgid "Date Setting"
+msgstr "तिथि सेटिंग"
+
+#. Applications:
+#. Context: A setting that is automatically given by a device
+msgid "Default"
+msgstr "तयशुदा"
+
+#. Applications:
+#. Context: Call Volume set by Default
+msgid "Default Call Volume"
+msgstr "तयशुदा कॉल तीव्रता"
+
+#. Applications:
+#. Context: Font Size set by Default
+msgid "Default Font Size"
+msgstr "तयशुदा फ़ॉन्ट आकार"
+
+#. Applications:
+#. Context: Text Encoding set by Default
+msgid "Default Text Encoding"
+msgstr "तयशुदा पाठ एनकोडिंग"
+
+#. Applications:
+#. Context: To delete
+msgid "Delete"
+msgstr "मिटाएँ"
+
+#. Applications:
+#. Context: To delete messages
+msgid "Delete Messages"
+msgstr "संदेश मिटाएँ"
+
+#. Applications:
+#. Context: To delete recent call lists
+msgid "Delete Recent Call Lists"
+msgstr "हालिया कॉल सूची मिटाएँ"
+
+#. Applications:
+#. Context: reports about the delivery of messages etc
+msgid "Delivery Reports"
+msgstr "वितरण रपट"
+
+#. Applications:
+#. Context: A menu item of mobile to update the device
+msgid "Device Update"
+msgstr "उपकरण अद्यतन"
+
+#. Applications:
+#. Context: Shows list of dialed numbers
+msgid "Dialed"
+msgstr "डायल किए नंबर"
+
+#. Applications:
+#. Context: Shows list of dialed numbers
+msgid "Dialed Numbers"
+msgstr "डायल किए नंबर"
+
+#. Applications:
+#. Context: An application that contain alphabetical list of words, its meanings etc
+msgid "Dictionary"
+msgstr "शब्दकोश"
+
+#. Applications:
+#. Context: Dictionary is disabled
+msgid "Dictionary Off"
+msgstr "शब्दकोश बंद"
+
+#. Applications:
+#. Context: Clock that shows time in numeric form
+msgid "Digital Clock"
+msgstr "डिजिटल घड़ी"
+
+#. Applications:
+#. Context: related to digital photography
+msgid "Digital Zoom"
+msgstr "डिजिटल ज़ूम"
+
+#. Applications:
+#. Context: Related to Bluetooth whether it is search-able
+msgid "Discoverable"
+msgstr "खोजे जाने योग्य"
+
+#. Applications:
+#. Context: a profile of basic phone
+msgid "Discreet"
+msgstr "डिस्क्रीट"
+
+#. Applications:
+#. Context: To display the details
+msgid "Display Detail"
+msgstr "विवरण दिखाएँ"
+
+#. Applications:
+#. Context: Language for Display
+msgid "Display Language"
+msgstr "प्रदर्शन भाषा"
+
+#. Applications:
+#. Context: Settings of the display
+msgid "Display Settings"
+msgstr "प्रदर्शन सेटिंग"
+
+#. Applications:
+#. Context:  collection of contact used as single recipient distribution of emails
+msgid "Distribution List"
+msgstr "वितरण सूची"
+
+#. Applications:
+#. Context: To divert all the voice calls
+msgid "Divert All Voice Calls"
+msgstr "सभी ध्वनि कॉल अग्रेषित करें"
+
+#. Applications:
+#. Context: To download an image automatically
+msgid "Download Image Automatically"
+msgstr "छवि स्वतः डाउनलोड करें"
+
+#. Applications:
+#. Context: A folder where drafts of messages, mails are saved
+msgid "Drafts"
+msgstr "मसौदा"
+
+#. Applications:
+#. Context: used for time duration
+msgid "Duration"
+msgstr "अवधि"
+
+#. Applications:
+#. Context: Time taken by all calls
+msgid "Duration of All Calls"
+msgstr "कुल कॉल अवधि"
+
+#. Applications:
+#. Context: Time taken by dialed calls
+msgid "Duration of Dialed Calls"
+msgstr "कुल डायल कॉल अवधि"
+
+#. Applications:
+#. Context: Time taken by last calls
+msgid "Duration of Last Calls"
+msgstr "अंतिम कॉल की अवधि"
+
+#. Applications:
+#. Context: Time taken by received calls
+msgid "Duration of Received Calls"
+msgstr "प्राप्त कॉल अवधि"
+
+#. Applications:
+#. Context: A menu item used for Editing
+msgid "Edit"
+msgstr "संपादन"
+
+#. Applications:
+#. Context: It manages email account
+msgid "Email Account Management"
+msgstr "ईमेल खाता प्रबंधन"
+
+#. Applications:
+#. Context: Filters for email
+msgid "Email Filters"
+msgstr "ईमेल फ़िल्टर"
+
+#. Applications:
+#. Context: To activate bluetooth
+msgid "Enable Bluetooth"
+msgstr "ब्लूटूथ चालू करें"
+
+#. Applications:
+#. Context: To active geo location
+msgid "Enable Geo Location"
+msgstr "भू-स्थानदर्शक चालू करें"
+
+#. Applications:
+#. Context: To enable Email in HTML
+msgid "Enable HTML Email"
+msgstr "एचटीएमएल ईमेल चालू करें"
+
+#. Applications:
+#. Context: To change data in coded form so that it cannot be read by any unauthorized party
+msgid "Encryption"
+msgstr "गोपन"
+
+#. Applications:
+#. Context:  act of improving something
+msgid "Enhancement"
+msgstr "संवर्द्धन"
+
+#. Applications:
+#. Context: Settings for Enhancement
+msgid "Enhancement Settings"
+msgstr "संवर्द्धन सेटिंग"
+
+#. Applications:
+#. Context: To enter PIN code
+msgid "Enter PIN Code"
+msgstr "पिन-कोड भरें"
+
+#. Applications:
+#. Context: To enter recipient
+msgid "Enter Recipient"
+msgstr "प्राप्तकर्ता भरें"
+
+#. Applications:
+#. Context: related to music player
+msgid "Equalizer"
+msgstr "समकारी"
+
+#. Applications:
+#. Context: To erase all content and settings
+msgid "Erase All Contents and Settings"
+msgstr "सभी सामग्री व सेटिंग मिटाएँ"
+
+#. Applications:
+#. Context: Events that is notified
+msgid "Events Notified"
+msgstr "सूचित घटनाएँ"
+
+#. Applications:
+#. Context: To exit from an application
+msgid "Exit"
+msgstr "बाहर"
+
+#. Applications:
+#. Context: To exit from the editor
+msgid "Exit Editor"
+msgstr "संपादक से बाहर"
+
+#. Applications:
+#. Context: Fonts with extra large size
+msgid "Extra Large Fonts"
+msgstr "ज़्यादा बड़े फ़ॉन्ट"
+
+#. Applications:
+#. Context: Used for rest of the application in basic mobile
+msgid "Extras"
+msgstr "अतिरिक्त"
+
+#. Applications:
+#. Context: Application
+msgid "Facebook"
+msgstr "फ़ेसबुक"
+
+#. Applications:
+#. Context: Folder to show files on device
+msgid "Files"
+msgstr "फ़ाइल"
+
+#. Applications:
+#. Context: Application
+msgid "File Manager"
+msgstr "फ़ाइल प्रबंधक"
+
+#. Applications:
+#. Context: To find the location
+msgid "Find Location"
+msgstr "स्थान पता करें"
+
+#. Applications:
+#. Context: Application
+msgid "Firewall"
+msgstr "फ़ायरवॉल"
+
+#. Applications:
+#. Context: action for locking the dialing
+msgid "Fixed Dialing"
+msgstr "निर्धारित डायलिंग"
+
+#. Applications:
+#. Context: flash of the camera
+msgid "Flash"
+msgstr "फ़्लैश"
+
+#. Applications:
+#. Context: Application of basic mobile used for torch
+msgid "Flash Light"
+msgstr "फ़्लैश लाइट"
+
+#. Applications:
+#. Context: Application for sending FM radio waves
+msgid "FM Transmitter"
+msgstr "एफएम ट्रांसमीटर"
+
+#. Applications:
+#. Context: Size of font
+msgid "Font Size"
+msgstr "फ़ॉन्ट आकार"
+
+#. Applications:
+#. Context: To format memory or sd card
+msgid "Format"
+msgstr "प्रारूप"
+
+#. Applications:
+#. Context: To forward a selected message to somebody
+msgid "Forward"
+msgstr "अग्रेषित करें"
+
+#. Applications:
+#. Context: Label to display the available memory
+msgid "Free Memory"
+msgstr "उपलब्ध मेमोरी"
+
+#. Applications:
+#. Context: Full ie memory is full
+msgid "Full"
+msgstr "भरी हुई"
+
+#. Applications:
+#. Context: Sound of Game
+msgid "Game Sound"
+msgstr "खेल ध्वनि"
+
+#. Applications:
+#. Context: Mobile games
+msgid "Games"
+msgstr "खेल"
+
+#. Applications:
+#. Context: Profile of a basic phone
+msgid "General"
+msgstr "सामान्य"
+
+#. Applications:
+#. Context: Related to music
+msgid "Genres"
+msgstr "घराना"
+
+#. Applications:
+#. Context: To get direction in a map
+msgid "Get Directions"
+msgstr "दिशानिर्देश पाएँ"
+
+#. Applications:
+#. Context: to go to somewhere
+msgid "Go to"
+msgstr "यहाँ जाएँ"
+
+#. Applications:
+#. Context: To go to date
+msgid "Go to Date"
+msgstr "तिथि पर जाएँ"
+
+#. Applications:
+#. Context: To go to music store
+msgid "Go to Music Store"
+msgstr "संगीत स्टोर पर जाएँ"
+
+#. Applications:
+#. Context: Application
+msgid "Google"
+msgstr "गूगल"
+
+#. Applications:
+#. Context: Type of Display arrange different items
+msgid "Grid View"
+msgstr "ग्रिड दृश्य"
+
+#. Applications:
+#. Context: Equipment used without the help of hands
+msgid "Handsfree"
+msgstr "हैंड्सफ्री"
+
+#. Applications:
+#. Context: headset is headphones combined with a microphone
+msgid "Headset"
+msgstr "हेडसेट"
+
+#. Applications:
+#. Context: To hide the clock
+msgid "Hide Clock"
+msgstr "घड़ी छुपाएँ"
+
+#. Applications:
+#. Context: Menu Item of Mobile to display previous actions/steps
+msgid "History"
+msgstr "इतिहास"
+
+#. Applications:
+#. Context: Main Screen
+msgid "Home"
+msgstr "मुखपृष्ठ"
+
+#. Applications:
+#. Context: Size of Image
+msgid "Image Size"
+msgstr "छवि आकार"
+
+#. Applications:
+#. Context: To import the pictures
+msgid "Import Pictures"
+msgstr "चित्र आयात करें"
+
+#. Applications:
+#. Context: Profile of phone
+msgid "In Car"
+msgstr "कार में"
+
+#. Applications:
+#. Context: Feature to show call duration during calls
+msgid "In-call Timer"
+msgstr "चालू कॉल अवधि"
+
+#. Applications:
+#. Context: Incoming mails are saved in this folder.
+msgid "Inbox"
+msgstr "आई डाक"
+
+#. Applications:
+#. Context: Setting related to incoming calls
+msgid "In-call Settings"
+msgstr "आवक कॉल सेटिंग"
+
+#. Applications:
+#. Context: To include sender's identity
+msgid "Include Signature"
+msgstr "हस्ताक्षर जोड़ें"
+
+#. Applications:
+#. Context: Calls from others to the user
+msgid "Incoming Calls"
+msgstr "आने वाली कॉल"
+
+#. Applications:
+#. Context: Service related to information of area or anything
+msgid "Info Service"
+msgstr "सूचना सेवा"
+
+#. Applications:
+#. Context: To insert numbers
+msgid "Insert Number"
+msgstr "नंबर डालें"
+
+#. Applications:
+#. Context: To insert options
+msgid "Insert Options"
+msgstr "विकल्प डालें"
+
+#. Applications:
+#. Context: To insert smiley
+msgid "Insert Smiley"
+msgstr "स्माइली डालें"
+
+#. Applications:
+#. Context: To insert symbol
+msgid "Insert Symbol"
+msgstr "चिह्न डालें"
+
+#. Applications:
+#. Context: To insert template
+msgid "Insert Template"
+msgstr "प्रारूप जोड़ें"
+
+#. Applications:
+#. Context: files for installation
+msgid "Installation Files"
+msgstr "संस्थापन फ़ाइल"
+
+#. Applications:
+#. Context: Settings for installation
+msgid "Installation Settings"
+msgstr "संस्थापन सेटिंग"
+
+#. Applications:
+#. Context: List of application that are installed
+msgid "Installed Apps"
+msgstr "संस्थापित ऐप्स"
+
+#. Applications:
+#. Context: the act of instructing
+msgid "Instructions"
+msgstr "निर्देश"
+
+#. Applications:
+#. Context: Calls to or from foreign country
+msgid "International Calls"
+msgstr "अंतर्राष्ट्रीय कॉल"
+
+#. Applications:
+#. Context: Internet Protocol Address
+msgid "IP Address"
+msgstr "आईपी पता"
+
+#. Applications:
+#. Context: Code for keyguard
+msgid "Keyguard Code"
+msgstr "की-गार्ड कोड"
+
+#. Applications:
+#. Context: Settings of Keyguard
+msgid "Keyguard Settings"
+msgstr "की-गार्ड सेटिंग"
+
+#. Applications:
+#. Context: A feature that can lock or unlock the keys
+msgid "Keylock"
+msgstr "कीलॉक"
+
+#. Applications:
+#. Context: Keypad is active
+msgid "Keypad Active"
+msgstr "कीपैड सक्रिय"
+
+#. Applications:
+#. Context: keypad is locked
+msgid "Keypad Locked"
+msgstr "कीपैड बंद"
+
+#. Applications:
+#. Context: Tones of Keypad
+msgid "Keypad Tones"
+msgstr "कीपैड टोन"
+
+#. Applications:
+#. Context: keypad is unlocked
+msgid "Keypad Unlocked"
+msgstr "कीपैड चालू"
+
+#. Applications:
+#. Context: Related to Camera and photo, orientation where width is greater than the height
+msgid "Landscape"
+msgstr "लैंडस्केप"
+
+#. Applications:
+#. Context: Human language eg Chinese, French, Hindi
+msgid "Language"
+msgstr "भाषा"
+
+#. Applications:
+#. Context: Fonts of large size
+msgid "Large Fonts"
+msgstr "बड़े फ़ॉन्ट"
+
+#. Applications:
+#. Context: most recent call
+msgid "Last Call"
+msgstr "आख़िरी कॉल"
+
+#. Applications:
+#. Context: watched last time
+msgid "Last Watched"
+msgstr "हालिया देखा हुआ"
+
+#. Applications:
+#. Context: The most recent update
+msgid "Latest Update"
+msgstr "ताज़ा अद्यतन"
+
+#. Applications:
+#. Context: Distance
+msgid "Length"
+msgstr "लंबाई"
+
+#. Applications:
+#. Context: Profile of phone
+msgid "Lights Only"
+msgstr "सिर्फ प्रकाश"
+
+#. Applications:
+#. Context: series of any items
+msgid "List"
+msgstr "सूची"
+
+#. Applications:
+#. Context: Type of viewing items, contrast to grid view
+msgid "List View"
+msgstr "सूची दृश्य"
+
+#. Applications:
+#. Context: To load image from storage
+msgid "Load Image"
+msgstr "छवि लोड करें"
+
+#. Applications:
+#. Context: geographical coordinates
+msgid "Location"
+msgstr "स्थान"
+
+#. Applications:
+#. Context: Service to access user's location
+msgid "Location Services"
+msgstr "स्थान सेवा"
+
+#. Applications:
+#. Context: To lock
+msgid "Lock"
+msgstr "बंद करें"
+
+#. Applications:
+#. Context: Profile of phone
+msgid "Loud"
+msgstr "तीव्र"
+
+#. Applications:
+#. Context: physical strength of sound
+msgid "Loudness"
+msgstr "तीव्रता"
+
+#. Applications:
+#. Context: opposite of automatic
+msgid "Manual"
+msgstr "दस्ती"
+
+#. Applications:
+#. Context: representation of a region on plane surface, here on mobile
+msgid "Maps"
+msgstr "नक्शे"
+
+#. Applications:
+#. Context: an object to store data
+msgid "Media"
+msgstr "मीडिया"
+
+#. Applications:
+#. Context: a device to play music, video etc
+msgid "Media Player"
+msgstr "मीडिया प्लेयर"
+
+#. Applications:
+#. Context: Related to calendar application
+msgid "Meeting"
+msgstr "बैठक"
+
+#. Applications:
+#. Context: Status of memory ie free or full
+msgid "Memory Status"
+msgstr "मेमोरी स्थिति"
+
+#. Applications:
+#. Context: an option list
+msgid "Menu"
+msgstr "मेन्यू"
+
+#. Applications:
+#. Context: That allow to view menu wise
+msgid "Menu View"
+msgstr "मेन्यू दृश्य"
+
+#. Applications:
+#. Context: Tone of Message Alert
+msgid "Message Alert Tone"
+msgstr "संदेश सूचक ध्वनि"
+
+#. Applications:
+#. Context: Counter of Message
+msgid "Message Counter"
+msgstr "संदेश गणक"
+
+#. Applications:
+#. Context: Type of Notifiers of Message
+msgid "Message Notifiers"
+msgstr "संदेश सूचक"
+
+#. Applications:
+#. Context: Message which is saved now
+msgid "Message Saved"
+msgstr "संदेश सहेजा गया"
+
+#. Applications:
+#. Context: setting related to message
+msgid "Message Settings"
+msgstr "संदेश सेटिंग"
+
+#. Applications:
+#. Context: communication among a one or more persons
+msgid "Messages"
+msgstr "संदेश"
+
+#. Applications:
+#. Context: Related to Missed call
+msgid "Missed"
+msgstr "चूके हुए"
+
+#. Applications:
+#. Context: Calls that one missed to take
+msgid "Missed Calls"
+msgstr "चूके कॉल"
+
+#. Applications:
+#. Context: Multi media Messaging
+msgid "MMS"
+msgstr "एमएमएस"
+
+#. Applications:
+#. Context: Network available for Mobile device, a radio network distributed over land areas called cells called mobile network
+msgid "Mobile Network"
+msgstr "मोबाइल नेटवर्क"
+
+#. Applications:
+#. Context: Model of Device
+msgid "Model"
+msgstr "मॉडल"
+
+#. Applications:
+#. Context: to be used to see the details
+msgid "More"
+msgstr "अधिक"
+
+#. Applications:
+#. Context: Collection of Music
+msgid "Music Library"
+msgstr "संगीत संग्रह"
+
+#. Applications:
+#. Context: application to play music
+msgid "Music Player"
+msgstr "म्यूज़िक प्लेयर"
+
+#. Applications:
+#. Context: Button to show my location
+msgid "My Location"
+msgstr "मेरा स्थान"
+
+#. Applications:
+#. Context: Related to contact menu that shows name only
+msgid "Name"
+msgstr "नाम"
+
+#. Applications:
+#. Context: Related to contact menu that shows name and number both
+msgid "Name and Number"
+msgstr "नाम और नंबर"
+
+#. Applications:
+#. Context: List of Name
+msgid "Name List"
+msgstr "नाम सूची"
+
+#. Applications:
+#. Context: only name nothing else
+msgid "Name Only"
+msgstr "सिर्फ नाम"
+
+#. Applications:
+#. Context: Related to Map
+msgid "Navigate to Here"
+msgstr "यहाँ नेविगेट करें"
+
+#. Applications:
+#. Context: Information related to network and connection
+msgid "Network and Connection"
+msgstr "नेटवर्क और कनेक्शन"
+
+#. Applications:
+#. Context: Selection of Network
+msgid "Network Selection"
+msgstr "नेटवर्क चयन"
+
+#. Applications:
+#. Context: related to calendar to make new appointment
+msgid "New Appointment"
+msgstr "नई मुलाकात"
+
+#. Applications:
+#. Context: Move forward
+msgid "Next"
+msgstr "अगला"
+
+#. Applications:
+#. Context: Setting for pictures taken in dark conditions
+msgid "Night"
+msgstr "रात्रि"
+
+#. Applications:
+#. Context: Opposite to Yes
+msgid "No"
+msgstr "नहीं"
+
+#. Applications:
+#. Context: Disabling the screening of Messages
+msgid "No Screening"
+msgstr "कोई छाँट नहीं"
+
+#. Applications:
+#. Context: No one or not any
+msgid "None"
+msgstr "कुछ नहीं"
+
+#. Applications:
+#. Context: Profile of phone
+msgid "Normal"
+msgstr "सामान्य"
+
+#. Applications:
+#. Context: a brief record in written form, an application also
+msgid "Note"
+msgstr "नोट"
+
+#. Applications:
+#. Context: Blinking lights to show any notification of mails, messages etc
+msgid "Notification Lights"
+msgstr "सूचक बत्ती"
+
+#. Applications:
+#. Context: When you click on this, device will show currently playing songs/videos
+msgid "Now Playing..."
+msgstr "अभी चल रहा है..."
+
+#. Applications:
+#. Context: To be used to lock/unlock in basic phones
+msgid "Now Press *"
+msgstr "अब * दबाएँ"
+
+#. Applications:
+#. Context: Total no of copy
+msgid "Number of Copies"
+msgstr "नक़ल की संख्या"
+
+#. Applications:
+#. Context: Mobile number
+msgid "Numbers"
+msgstr "नंबर"
+
+#. Applications:
+#. Context: Related to address book used for filling office contacts
+msgid "Office"
+msgstr "कार्यालय"
+
+#. Applications:
+#. Context: Approval
+msgid "OK"
+msgstr "ठीक"
+
+#. Applications:
+#. Context: opposite of Off
+msgid "On"
+msgstr "चालू"
+
+#. Applications:
+#. Context: Individually in succession
+msgid "One by One"
+msgstr "एक के बाद एक"
+
+#. Applications:
+#. Context: A menu choice
+msgid "Options"
+msgstr "विकल्प"
+
+#. Applications:
+#. Context: To put in structured order
+msgid "Organize"
+msgstr "संयोजित करें"
+
+#. Applications:
+#. Context: Video clips other than available
+msgid "Other Video Clips"
+msgstr "अन्य वीडियो क्लिप"
+
+#. Applications:
+#. Context: One type of scene mode to take pictures
+msgid "Outdoors"
+msgstr "बाहरी"
+
+#. Applications:
+#. Context: Calls being made from user's mobile
+msgid "Outgoing Calls"
+msgstr "किए गए कॉल"
+
+#. Applications:
+#. Context: Type of Keylock
+msgid "Passcode Lock"
+msgstr "पासकोड लॉक"
+
+#. Applications:
+#. Context: character used for the verification of identity
+msgid "Password"
+msgstr "कूटशब्द"
+
+#. Applications:
+#. Context: To paste
+msgid "Paste"
+msgstr "चिपकाएँ"
+
+#. Applications:
+#. Context: Application to make voice call
+msgid "Phone"
+msgstr "फ़ोन"
+
+#. Applications:
+#. Context: Setting related to voice call
+msgid "Phone Management"
+msgstr "फ़ोन प्रबंधन"
+
+#. Applications:
+#. Context: Number of Phone ie mobile number
+msgid "Phone Number"
+msgstr "फ़ोन नंबर"
+
+#. Applications:
+#. Context: settings of a phone
+msgid "Phone Settings"
+msgstr "फ़ोन सेटिंग"
+
+#. Applications:
+#. Context: Style of phone-book
+msgid "Phone-book Style"
+msgstr "फ़ोन-बुक शैली"
+
+#. Applications:
+#. Context: Message in the form of pictures
+msgid "Picture Messages"
+msgstr "चित्र संदेश"
+
+#. Applications:
+#. Context: After taking picture whether to review the picture
+msgid "Picture Review"
+msgstr "चित्र अवलोकन"
+
+#. Applications:
+#. Context: Request for PIN code
+msgid "PIN Code Request"
+msgstr "पिन-कोड निवेदन"
+
+#. Applications:
+#. Context: To play music or video
+msgid "Play"
+msgstr "चलाएँ"
+
+#. Applications:
+#. Context: List of music or video to be played
+msgid "Playlists"
+msgstr "सूची"
+
+#. Applications:
+#. Context: One type of message template
+msgid "Please Call"
+msgstr "कृपया कॉल करें"
+
+#. Applications:
+#. Context: A type of digital media
+msgid "Podcast"
+msgstr "पॉडकास्ट"
+
+#. Applications:
+#. Context: Orientation where height is greater than the width
+msgid "Portrait"
+msgstr "पोट्रेट"
+
+#. Applications:
+#. Context: Action to switch off the phone
+msgid "Power Off"
+msgstr "बंद करें"
+
+#. Applications:
+#. Context: A mode of saving the power
+msgid "Power Saving"
+msgstr "ऊर्जा बचत"
+
+#. Applications:
+#. Context: How much balance is left in prepaid
+msgid "Prepaid Credit"
+msgstr "प्रीपेड क्रेडिट"
+
+#. Applications:
+#. Context: coming before something
+msgid "Previous"
+msgstr "पिछला"
+
+#. Applications:
+#. Context: To print
+msgid "Print"
+msgstr "छापें"
+
+#. Applications:
+#. Context: Code of the product
+msgid "Product Code"
+msgstr "उत्पाद कोड"
+
+#. Applications:
+#. Context: Predefined set of values for various purposes eg notification or vpn profile
+msgid "Profile"
+msgstr "प्रोफ़ाइल"
+
+#. Applications:
+#. Context: Attribute of an object
+msgid "Properties"
+msgstr "गुण"
+
+#. Applications:
+#. Context: to quit
+msgid "Quit"
+msgstr "बाहर"
+
+#. Applications:
+#. Context: Application
+msgid "Radio"
+msgstr "रेडियो"
+
+#. Applications:
+#. Context: To read (in basic phone)
+msgid "Read"
+msgstr "पढ़ें"
+
+#. Applications:
+#. Context: Anything that user has received
+msgid "Received"
+msgstr "प्राप्त"
+
+#. Applications:
+#. Context: Calls that are received
+msgid "Received Calls"
+msgstr "प्राप्त कॉल"
+
+#. Applications:
+#. Context: messages that are received
+msgid "Received Messages"
+msgstr "प्राप्त संदेश"
+
+#. Applications:
+#. Context: Page that was visited recently
+msgid "Recently Visited Page"
+msgstr "हालिया देखा गया पृष्ठ"
+
+#. Applications:
+#. Context: Type of keyboard eg full querty or reduced
+msgid "Reduced"
+msgstr "संक्षिप्त"
+
+#. Applications:
+#. Context: To refresh the library content
+msgid "Refresh Library"
+msgstr "संग्रह ताज़ा करें"
+
+#. Applications:
+#. Context: To remind about : call, meeting anything
+msgid "Remind About"
+msgstr "याद दिलाएँ"
+
+#. Applications:
+#. Context: A message to indicate when one event is going to happen
+msgid "Reminders"
+msgstr "स्मरक"
+
+#. Applications:
+#. Context: To remove from album
+msgid "Remove from Album"
+msgstr "एल्बम से हटाएँ"
+
+#. Applications:
+#. Context: To repeat
+msgid "Repeat"
+msgstr "दोहराएँ"
+
+#. Applications:
+#. Context: To repeat the alarm
+msgid "Repeat Alarm"
+msgstr "अलार्म दोहराएँ"
+
+#. Applications:
+#. Context: To repeat all the item
+msgid "Repeat All"
+msgstr "सभी दोहराएँ"
+
+#. Applications:
+#. Context: To repeat the song
+msgid "Repeat Song"
+msgstr "गाना दोहराएँ"
+
+#. Applications:
+#. Context: To reply
+msgid "Reply"
+msgstr "जवाब दें"
+
+#. Applications:
+#. Context: To reply to all persons present in mail
+msgid "Reply to All"
+msgstr "सबको जवाब दें"
+
+#. Applications:
+#. Context: To reset all the settings
+msgid "Reset All Settings"
+msgstr "सभी सेटिंग रीसेट करें"
+
+#. Applications:
+#. Context: To reset the home screen layout
+msgid "Reset Home Screen Layout"
+msgstr "मुख्य स्क्रीन ख़ाका रीसेट करें"
+
+#. Applications:
+#. Context: To reset the keyboard dictionary
+msgid "Reset Keyboard Dictionary"
+msgstr "कुंजीपट शब्दकोश रीसेट करें"
+
+#. Applications:
+#. Context: To reset the location warning
+msgid "Reset Location Warning"
+msgstr "स्थान चेतावनी रीसेट करें"
+
+#. Applications:
+#. Context: To reset the network setting
+msgid "Reset Network Settings"
+msgstr "नेटवर्क सेटिंग रीसेट करें"
+
+#. Applications:
+#. Context: To reset the settings
+msgid "Reset Settings"
+msgstr "सेटिंग रीसेट करें"
+
+#. Applications:
+#. Context: related to camera
+msgid "Resolution"
+msgstr "रेज़ॉल्यूशन"
+
+#. Applications:
+#. Context: restore of an electronic device to its factory settings
+msgid "Restore Factory Settings"
+msgstr "फ़ैक्टरी सेटिंग बहाल करें"
+
+#. Applications:
+#. Context: One of the selection key for basic mobile to change short cut
+msgid "Right Selection Key"
+msgstr "दायीं चयन कुंजी"
+
+#. Applications:
+#. Context: Tone of Ringing
+msgid "Ringing Tone"
+msgstr "रिंगिंग टोन"
+
+#. Applications:
+#. Context: Volume of Ringing
+msgid "Ringing Volume"
+msgstr "रिंगिंग ध्वनि"
+
+#. Applications:
+#. Context: to save
+msgid "Save"
+msgstr "सहेजें"
+
+#. Applications:
+#. Context: To save the massage
+msgid "Save Message"
+msgstr "संदेश सहेजें"
+
+#. Applications:
+#. Context: Display of Screen
+msgid "Screen Display"
+msgstr "स्क्रीन प्रदर्शक"
+
+#. Applications:
+#. Context: Rotation of screen
+msgid "Screen Rotation"
+msgstr "स्क्रीन घूर्णन"
+
+#. Applications:
+#. Context: An utility that displays some images/text on home screen after a certain time
+msgid "Screen Saver"
+msgstr "स्क्रीन सेवर"
+
+#. Applications:
+#. Context: Messages that are already screened
+msgid "Screened Messages"
+msgstr "छाँटे गए संदेश"
+
+#. Applications:
+#. Context: To search
+msgid "Search"
+msgstr "खोजें"
+
+#. Applications:
+#. Context: To search by (any category wise)
+msgid "Search by"
+msgstr "ऐसे खोजें"
+
+#. Applications:
+#. Context: To search an item by its sender
+msgid "Search by Sender"
+msgstr "प्रेषक से खोजें"
+
+#. Applications:
+#. Context: To search an item by its subject
+msgid "Search by Subject"
+msgstr "विषय से खोजें"
+
+#. Applications:
+#. Context: Protection of a device
+msgid "Security"
+msgstr "सुरक्षा"
+
+#. Applications:
+#. Context: Codes of Security
+msgid "Security Codes"
+msgstr "सुरक्षा कोड"
+
+#. Applications:
+#. Context: Levels of security
+msgid "Security Levels"
+msgstr "सुरक्षा स्तर"
+
+#. Applications:
+#. Context: Setting of the security
+msgid "Security Settings"
+msgstr "सुरक्षा सेटिंग"
+
+#. Applications:
+#. Context: to select
+msgid "Select"
+msgstr "चुनें"
+
+#. Applications:
+#. Context: to select the option
+msgid "Select Option"
+msgstr "विकल्प चुनें"
+
+#. Applications:
+#. Context: to send
+msgid "Send"
+msgstr "भेजें"
+
+#. Applications:
+#. Context: To send the contact card
+msgid "Send Contact Card"
+msgstr "संपर्क कार्ड भेजें"
+
+#. Applications:
+#. Context: To send anything after
+msgid "Send Later"
+msgstr "बाद में भेजें"
+
+#. Applications:
+#. Context: To send the geographical location
+msgid "Send Location"
+msgstr "स्थान भेजें"
+
+#. Applications:
+#. Context: To send somebody own caller identity
+msgid "Send my Caller Identity"
+msgstr "मेरी कॉलर पहचान भेजें"
+
+#. Applications:
+#. Context: To send a message or mail on the list
+msgid "Send to List"
+msgstr "सूची को भेजें"
+
+#. Applications:
+#. Context: To send an item to many persons
+msgid "Send to Many"
+msgstr "बहुतों को भेजें"
+
+#. Applications:
+#. Context: The person who sends
+msgid "Sender"
+msgstr "प्रेषक"
+
+#. Applications:
+#. Context: Options of Sending an item
+msgid "Sending Options"
+msgstr "प्रेषण विकल्प"
+
+#. Applications:
+#. Context: Profile for sending anything
+msgid "Sending Profile"
+msgstr "प्रेषण प्रोफ़ाइल"
+
+#. Applications:
+#. Context: Settings of Sensor
+msgid "Sensor Settings"
+msgstr "सेंसर सेटिंग"
+
+#. Applications:
+#. Context: Sent folder
+msgid "Sent"
+msgstr "गई डाक"
+
+#. Applications:
+#. Context: Items that are sent
+msgid "Sent Items"
+msgstr "भेजी गई वस्तुएँ"
+
+#. Applications:
+#. Context: Folder of messages that are already sent
+msgid "Sent Messages"
+msgstr "भेजे गए संदेश"
+
+#. Applications:
+#. Context: Setting related to message center
+msgid "Service Center"
+msgstr "सेवा केंद्र"
+
+#. Applications:
+#. Context: Service that is not active
+msgid "Service Not Active"
+msgstr "सेवा सक्रिय नहीं"
+
+#. Applications:
+#. Context: Status of Service
+msgid "Service Status"
+msgstr "सेवा स्थिति"
+
+#. Applications:
+#. Context: To set a tone as ring tone
+msgid "Set as Ring Tone"
+msgstr "बतौर रिंग टोन सेट करें"
+
+#. Applications:
+#. Context: To set the time
+msgid "Set the Time"
+msgstr "समय सेट करें"
+
+#. Applications:
+#. Context: configuration to control the functioning of a device
+msgid "Settings"
+msgstr "सेटिंग"
+
+#. Applications:
+#. Context: Preparing an application in mobile to operate
+msgid "Setup"
+msgstr "सेटअप"
+
+#. Applications:
+#. Context: mix up the song and randomize
+msgid "Shuffle"
+msgstr "फेंटें"
+
+#. Applications:
+#. Context: mix up the song and randomize play
+msgid "Shuffle Play"
+msgstr "फेंट कर चलाएँ"
+
+#. Applications:
+#. Context: The process of quitting all apps before power off any device
+msgid "Shutdown"
+msgstr "बंद करें"
+
+#. Applications:
+#. Context: Mobile/Network signal
+msgid "Signal"
+msgstr "संकेत"
+
+#. Applications:
+#. Context: sender's identity
+msgid "Signature"
+msgstr "हस्ताक्षर"
+
+#. Applications:
+#. Context: A profile of mobile
+msgid "Silent"
+msgstr "मौन"
+
+#. Applications:
+#. Context: A card that stores all information of mobile users (Subscriber identity module Card)
+msgid "SIM Card"
+msgstr "सिम कार्ड"
+
+#. Applications:
+#. Context: On-screen presentation of information
+msgid "Slide Show"
+msgstr "स्लाइड शो"
+
+#. Applications:
+#. Context: Fonts of small size
+msgid "Small Fonts"
+msgstr "छोटे फ़ॉन्ट"
+
+#. Applications:
+#. Context: Multiple option that make dialing smart and quick
+msgid "Smart Dialing"
+msgstr "स्मार्ट डायलिंग"
+
+#. Applications:
+#. Context: stylistic representation of a human face used to show different type of emotions
+msgid "Smileys"
+msgstr "स्माइली"
+
+#. Applications:
+#. Context: Short Message Service
+msgid "SMS"
+msgstr "एसएमएस"
+
+#. Applications:
+#. Context: Update of software
+msgid "Software Update"
+msgstr "सॉफ़्टवेयर अद्यतन"
+
+#. Applications:
+#. Context: Version of software
+msgid "Software Version"
+msgstr "सॉफ़्टवेयर संस्करण"
+
+#. Applications:
+#. Context: Details of the song
+msgid "Song Details"
+msgstr "गीत विवरण"
+
+#. Applications:
+#. Context: Song is a composition for voice/voices, performed by singing
+msgid "Songs"
+msgstr "गाने"
+
+#. Applications:
+#. Context: Sound and Ringtone ie sound made by a telephone
+msgid "Sound and Ringtone"
+msgstr "ध्वनि व रिंगटोन"
+
+#. Applications:
+#. Context: Option that gives choice to pronounce caller's name
+msgid "Speaking"
+msgstr "नाम बोलें"
+
+#. Applications:
+#. Context: Related to contact to call
+msgid "Special"
+msgstr "विशेष"
+
+#. Applications:
+#. Context: A function available on many telephone systems allowing the user to place a call by pressing a reduced number of keys
+msgid "Speed Dialing"
+msgstr "त्वरित डायल"
+
+#. Applications:
+#. Context: an application program that flags words in a document that may not be spelled correctly
+msgid "Spell Check"
+msgstr "वर्तनी जाँच"
+
+#. Applications:
+#. Context: One type of scene mode
+msgid "Sports"
+msgstr "खेल-कूद"
+
+#. Applications:
+#. Context: An application for calculation
+msgid "Spreadsheet"
+msgstr "स्प्रेडशीट"
+
+#. Applications:
+#. Context: accepted or approved example of something
+msgid "Standard"
+msgstr "मानक"
+
+#. Applications:
+#. Context: To start
+msgid "Start"
+msgstr "आरंभ करें"
+
+#. Applications:
+#. Context: Tone comes when users power on the mobile
+msgid "Startup Tone"
+msgstr "आरंभिक टोन"
+
+#. Applications:
+#. Context: Page comes when browsers start
+msgid "Startup Page"
+msgstr "आरंभिक पृष्ठ"
+
+#. Applications:
+#. Context: A feature to enhance audio
+msgid "Stereo Widening"
+msgstr "स्टीरिओ विस्तार"
+
+#. Applications:
+#. Context: To stop
+msgid "Stop"
+msgstr "रोकें"
+
+#. Applications:
+#. Context: Application
+msgid "Stop Watch"
+msgstr "विराम घड़ी"
+
+#. Applications:
+#. Context: To store pictures
+msgid "Store Pictures"
+msgstr "चित्र संग्रह करें"
+
+#. Applications:
+#. Context: To switch application
+msgid "Switch Application"
+msgstr "अनुप्रयोग बदलें"
+
+#. Applications:
+#. Context: a set of units which can be used to specify anything which can be measured
+msgid "System of Measurement"
+msgstr "मापन पद्धति"
+
+#. Applications:
+#. Context: Tab is one that allows multiple documents to be contained within a single window
+msgid "Tabs"
+msgstr "टैब"
+
+#. Applications:
+#. Context: a physical quantity that is a measure of hotness and coldness on a numerical scale
+msgid "Temperature"
+msgstr "तापमान"
+
+#. Applications:
+#. Context: pre-formatted file on which to base other files, especially messages, documents
+msgid "Templates"
+msgstr "प्रारूप"
+
+#. Applications:
+#. Context: Data in words and symbols eg text message
+msgid "Text"
+msgstr "पाठ"
+
+#. Applications:
+#. Context: custom graphical appearance for certain software, similar to a graphics skin, From here you can select and set your theme
+msgid "Themes"
+msgstr "प्रसंग"
+
+#. Applications:
+#. Context: reduced-size versions of pictures
+msgid "Thumbnail View"
+msgstr "लघुछवि दृश्य"
+
+#. Applications:
+#. Context: Way of representation of time in different format
+msgid "Time Format"
+msgstr "समय प्रारूप"
+
+#. Applications:
+#. Context: Setting of Time
+msgid "Time Settings"
+msgstr "समय सेटिंग"
+
+#. Applications:
+#. Context:  tool to keep track of the time
+msgid "Time Tracker"
+msgstr "समय ट्रैकर"
+
+#. Applications:
+#. Context: Selection of time zone based on user's choice, time zone is area of globe that have same time
+msgid "Time Zone"
+msgstr "समय क्षेत्र"
+
+#. Applications:
+#. Context: Defined time period after which one deactivates
+msgid "Time Out"
+msgstr "मियाद खत्म"
+
+#. Applications:
+#. Context: Setting of Tone
+msgid "Tone Settings"
+msgstr "टोन सेटिंग"
+
+#. Applications:
+#. Context: Index of Topics
+msgid "Topic Index"
+msgstr "विषय सूची"
+
+#. Applications:
+#. Context: Items of any content
+msgid "Topics"
+msgstr "विषय"
+
+#. Applications:
+#. Context: Total number of calls
+msgid "Total Calls"
+msgstr "कुल कॉल"
+
+#. Applications:
+#. Context: Application
+msgid "Tweeter"
+msgstr "ट्विटर"
+
+#. Applications:
+#. Context: To unlock
+msgid "Unlock"
+msgstr "खोलें"
+
+#. Applications:
+#. Context: To use
+msgid "Use"
+msgstr "उपयोग करें"
+
+#. Applications:
+#. Context: To use the details
+msgid "Use Details"
+msgstr "विवरण उपयोग करें"
+
+#. Applications:
+#. Context: To use the image
+msgid "Use Image"
+msgstr "छवि उपयोग करें"
+
+#. Applications:
+#. Context: To use the tone
+msgid "Use Tone"
+msgstr "टोन उपयोग करें"
+
+#. Applications:
+#. Context: An instruction manual to give directions to users about the device
+msgid "User Guide"
+msgstr "उपयोक्ता निदेशिका"
+
+#. Applications:
+#. Context: A profile of mobile, first vibrate and then ring
+msgid "Vibrate then Ring"
+msgstr "कंपन के बाद रिंग"
+
+#. Applications:
+#. Context: feature of communications devices to notify the user of an incoming connection
+msgid "Vibrating Alert"
+msgstr "कंपन संकेत"
+
+#. Applications:
+#. Context: Selection of vibration patterns
+msgid "Vibration"
+msgstr "कंपन"
+
+#. Applications:
+#. Context: Application to view a video
+msgid "Video"
+msgstr "वीडियो"
+
+#. Applications:
+#. Context: Application to create a video
+msgid "Video Camera"
+msgstr "वीडियो कैमरा"
+
+#. Applications:
+#. Context: To view all items
+msgid "View All"
+msgstr "सभी देखें"
+
+#. Applications:
+#. Context: To view datewise
+msgid "View by Date"
+msgstr "तिथि अनुसार देखें"
+
+#. Applications:
+#. Context: To view the folder
+msgid "View Folder"
+msgstr "फ़ोल्डर देखें"
+
+#. Applications:
+#. Context: To view the message that is saved
+msgid "View Saved Message"
+msgstr "सहेजे संदेश देखें"
+
+#. Applications:
+#. Context: To view slideshow
+msgid "View Slideshow"
+msgstr "स्लाइड शो देखें"
+
+#. Applications:
+#. Context: Related to calendar to visit today's schedule
+msgid "View Today"
+msgstr "आज का देखें"
+
+#. Applications:
+#. Context: Number for Voice mail box
+msgid "Voice Mail Box Number"
+msgstr "वॉइस मेल बॉक्स नंबर"
+
+#. Applications:
+#. Context: Tones for Warning
+msgid "Warning Tones"
+msgstr "चेतावनी टोन"
+
+#. Applications:
+#. Context: Comes in conversion from one unit to another, weight is measure of the heaviness
+msgid "Weight"
+msgstr "भार"
+
+#. Applications:
+#. Context: A note coming at the beginning when a user first time start any device or application
+msgid "Welcome Note"
+msgstr "स्वागत संदेश"
+
+#. Applications:
+#. Context: A network that allows an electronic device to exchange data wirelessly
+msgid "Wi-Fi Network"
+msgstr "वाई-फ़ाई नेटवर्क"
+
+#. Applications:
+#. Context: Application
+msgid "Yahoo!"
+msgstr "याहू!"
+
+#. Applications:
+#. Context: opposite to No
+msgid "Yes"
+msgstr "हाँ"
+
+#. Applications:
+#. Context: Application
+msgid "YouTube"
+msgstr "यू-ट्यूब"
+
+#. Applications:
+#. Context: Magnifier feature for anything exists on screen
+msgid "Zoom Mode"
+msgstr "ज़ूम मोड"
+
+#~ msgid "Go To"
+#~ msgstr "यहाँ जाएँ"
