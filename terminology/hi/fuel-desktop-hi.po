@@ -1,0 +1,2926 @@
+# translation of fuel_hi.po to Hindi
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Rajesh Ranjan <rranjan@redhat.com>, 2007, 2008.
+msgid ""
+msgstr ""
+"Project-Id-Version: fuel_hi\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2006-02-04 17:19+0530\n"
+"PO-Revision-Date: 2008-07-14 14:47+0530\n"
+"Last-Translator: Rajesh Ranjan <rranjan@redhat.com>\n"
+"Language-Team: Hindi <hindi.sf.net>\n"
+"Language: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+"\n"
+"\n"
+"\n"
+"\n"
+"\n"
+"\n"
+"\n"
+"\n"
+"\n"
+"\n"
+"\n"
+
+#. Applications: evolution, gdmpaneldesktop, gedit, gnometerminal, nautilus, openoffice, pidgin
+#. Context: Main menu - which is conveying the copyright and version of the application
+msgid "About"
+msgstr "परिचय"
+
+#. Applications: menu
+#. Context: Main menu - System – Preference – Accessibility
+msgid "Accessibility"
+msgstr "पहुँच"
+
+#. Applications: menu
+#. Context: Main menu - which contain text editor, calculator, dictionary like applications
+msgid "Accessories"
+msgstr "उपसाधन"
+
+#. Applications: pidgin
+#. Context: Pidgin - This is your email account in chat application
+msgid "Accounts"
+msgstr "खाता"
+
+#. Applications: menu
+#. Context: Main menu – System - Administration. Contains system administration application
+msgid "Administration"
+msgstr "प्रशासन"
+
+#. Applications: openoffice
+#. Context: In open office – oowriter – Format – Alignment. It 'll align the selected text to the specific place.
+msgid "Alignment"
+msgstr "संरेखण"
+
+#. Applications: openoffice
+#. Context: In open office – oowriter – Format – Anchor. Sets the anchoring options for the selected object.
+msgid "Anchor"
+msgstr "लंगर"
+
+#. Applications: menu
+#. Context: Main menu – To start the application
+msgid "Applications"
+msgstr "अनुप्रयोग"
+
+#. Applications: evolution
+#. Context: Evolution – Mail – Message – Apply filters.
+msgid "Apply Filters"
+msgstr "फ़िल्टर लागू करें"
+
+#. Applications: openoffice
+#. Context: In open office – oowriter – Format – Graphics - area. Set the fill options for the selected drawing object.
+msgid "Area"
+msgstr "क्षेत्र"
+
+#. Applications: openoffice
+#. Context: Open office – oowriter – Format – Arrange. Use the arrange commands to change the stacking order of objects in your document.
+msgid "Arrange"
+msgstr "व्यवस्थित करें"
+
+#. Applications: menu
+#. Context: Main menu – System – Administration – Authentication. This the configuration of Authentication.
+msgid "Authentication"
+msgstr "सत्यापन"
+
+#. Applications: openoffice
+#. Context: Open office – oowriter – Tools – Auto correct. Sets the options for automatically replacing text as you type.
+msgid "AutoCorrect"
+msgstr "स्वतः सुधार"
+
+#. Applications: openoffice
+#. Context: Open office – oowriter - Table – Autofit – Automatically fit the row height, column width and like same kind of other task.
+msgid "AutoFit"
+msgstr "स्वतः फ़िट"
+
+#. Applications: openoffice
+#. Context: open office – oowriter – Format – Auto format. Choose a predefined AutoFormat to apply to a selected area in your sheet.
+msgid "AutoFormat"
+msgstr "स्वतः प्रारूप"
+
+#. Applications: openoffice
+#. Context: Open office – Oowriter - Edit – AutoText. Creates, edits, or inserts AutoText. You can store formatted text, text with graphics, tables, and fields as AutoText.
+msgid "AutoText"
+msgstr "स्वतः पाठ"
+
+#. Applications: firefox, openoffice
+#. Context: Firefox – History – back. To go back to the previously visited page
+msgid "Back"
+msgstr "पीछे"
+
+#. Applications: openoffice
+#. Context: Firefox – Bookmark. To bookmark a visited page.
+msgid "Bookmark"
+msgstr "पुस्तचिह्न"
+
+#. Applications: openoffice
+#. Context: Open office – oowriter – View - Text Boundaries. Shows or hides the boundaries of the printable area of a page. The boundary lines are not printed.
+msgid "Boundaries"
+msgstr "सीमा"
+
+#. Applications: pidgin
+#. Context: Pidgin – Buddies. All about the your chat buddies
+msgid "Buddies"
+msgstr "दोस्त"
+
+#. Applications: openoffice
+#. Context: Open office – oowriter – Tools-calculate Calculates the selected formula and copies the result to the clipboard.
+msgid "Calculate"
+msgstr "गणना करें"
+
+#. Applications: menu
+#. Context: Main Menu – Accessories- Calculator. An application
+msgid "Calculator"
+msgstr "गणक"
+
+#. Applications: menu
+#. Context: Main Menu – Office – Calendar. Opens the calendar application.
+msgid "Calendar"
+msgstr "पंचांग"
+
+#. Applications: gdmpaneldesktop
+#. Context: Gdm – Cancel. Cancel 'll exit the dialog.
+msgid "Cancel"
+msgstr "रद्द करें"
+
+#. Applications: openoffice
+#. Context: open office – oowriter - Insert – Caption. Adds a numbered caption to a selected graphic, table, frame, text frame, or drawing object.
+msgid "Caption"
+msgstr "शीर्षक"
+
+#. Applications: openoffice
+#. Context: Open office – Oocalc – Format – cells – Formatting the selected cells
+msgid "Cells"
+msgstr "कोष्ठ"
+
+#. Applications: openoffice
+#. Context: Open office – Oowriter – Edit – Changes. The Changes dialog specifies various options for highlighting recorded changes in documents.
+msgid "Changes"
+msgstr "परिवर्तन"
+
+#. Applications: openoffice
+#. Context: Open office – Oowriter – Format- character. Changes the font and the font formatting for the selected characters.
+msgid "Character"
+msgstr "वर्ण"
+
+#. Applications: openoffice
+#. Context: Open office – Oocalc – Insert – chart. You can insert a copy of a chart that is not updated when you modify the chart data in the spreadsheet.
+msgid "Chart"
+msgstr "चार्ट"
+
+#. Applications: evolution
+#. Context: Evolution – Search – Clear. Clears the search text box entry.
+msgid "Clear"
+msgstr "साफ़ करें"
+
+#. Applications: gedit, nautilus, openoffice
+#. Context: Gedit, open office – File - close. To close the application.
+msgid "Close"
+msgstr "बन्द करें"
+
+#. Applications: openoffice
+#. Context: Open office – Oowriter – Insert – column. Inserting column in a table or spreadsheet.
+msgid "Column"
+msgstr "स्तंभ"
+
+#. Applications: menu, nautilus
+#. Context: Main menu – Places – Computer.
+msgid "Computer"
+msgstr "कंप्यूटर"
+
+#. Applications: openoffice
+#. Context: Open office – oocalc – Data – consolidate. Combines data from one or more independent cell ranges and calculates a new range using the function that you specify.
+msgid "Consolidate"
+msgstr "समेकन"
+
+#. Applications: menu
+#. Context: Main Menu – Internet – Contacts. Opens the contacts application.
+msgid "Contact"
+msgstr "संपर्क"
+
+#. Applications: evolution, gedit, gnometerminal, nautilus
+#. Context: Help – contents for most of the application.
+msgid "Contents"
+msgstr "विषय सूची"
+
+#. Applications: openoffice
+#. Context: Open office – oocalc – Format – Control. It formats a control
+msgid "Control"
+msgstr "नियंत्रण"
+
+#. Applications: openoffice
+#. Context: Open office – Oowriter – Table – Convert. Converts the selected text into a table, or the selected table into text.
+msgid "Convert"
+msgstr "बदलें"
+
+#. Applications: evolution, firefox, gedit, gnometerminal, nautilus, openoffice
+#. Context: Open office, Firefox, Gedit... – Edit – Copy. Copies the selection to the clipboard.
+msgid "Copy"
+msgstr "नक़ल करें"
+
+#. Applications: openoffice
+#. Context: Open office – Oocalc – Insert – Names – Create. Allows you to automatically name multiple cell ranges.
+msgid "Create"
+msgstr "बनाएँ"
+
+#. Applications: openoffice
+#. Context: Open office – Oocalc – Tools – Customize. It customize the menus, Keyboard, Toolbars, Event.
+msgid "Customize"
+msgstr "मनपसंद बनाएँ"
+
+#. Applications: firefox, gedit, nautilus, openoffice
+#. Context: Open office, Firefox, Gedit... – Edit – Cut. Removes and copies the selection to the clipboard.
+msgid "Cut"
+msgstr "काटें"
+
+#. Applications: openoffice
+#. Context: Open office – Oocalc - Data - DataPilot. Specify the layout of the table that is generated by the DataPilot.
+msgid "DataPilot"
+msgstr "आँकड़ा पायलट"
+
+#. Applications: evolution
+#. Context: Evoution – Mail – View – Current view – Day.
+msgid "Day"
+msgstr "दिन"
+
+#. Applications: evolution, firefox, gedit, openoffice
+#. Context: Evolution – Mail – Folder – Delete. Deletes the selected folder.
+msgid "Delete"
+msgstr "मिटाएँ"
+
+#. Applications: menu
+#. Context: Main Menu – Places – Desktop. To open the desktop contents in nautilus
+msgid "Desktop"
+msgstr "डेस्कटॉप"
+
+#. Applications: openoffice
+#. Context: Open office – Oocalc – Tools – Detective. This command activates the Spreadsheet Detective. With the Detective, you can trace the dependencies from the current formula cell to the cells in the spreadsheet.
+msgid "Detective"
+msgstr "ख़ुफ़िया"
+
+#. Applications: menu
+#. Context: Main menu – Accessories – Dictionary. This is an application.
+msgid "Dictionary"
+msgstr "शब्दकोश"
+
+#. Applications: menu
+#. Context: Main Menu - System – preference – Display. To configure the display.
+msgid "Display"
+msgstr "प्रदर्शित करें"
+
+#. Applications: menu
+#. Context: Main Menu - System – Documentations. You can see the installed documentation like installation guide, deployment guide.
+msgid "Documentations"
+msgstr "दस्तावेज़ीकरण"
+
+#. Applications: gedit
+#. Context: Gedit – Documents. This menu contains Document related operation.
+msgid "Documents"
+msgstr "दस्तावेज़"
+
+#. Applications: firefox
+#. Context: Firefox – Tools – Downloads. Shows the download progress window
+msgid "Downloads"
+msgstr "डाउनलोड"
+
+#. Applications: evolution
+#. Context: Evolution – Mail – Drafts. Draft mail are saved in this folder.
+msgid "Drafts"
+msgstr "मसौदा"
+
+#. Applications: nautilus, openoffice
+#. Context: Nautilus – Edit – Duplicate. Duplicates the selected file or folder.
+msgid "Duplicate"
+msgstr "अनुकृति"
+
+#. Applications: evolution, gedit, nautilus, openoffice
+#. Context: Open office, Gedit, Evolution.. - Edit. This is menu item which contains the editing commands.
+msgid "Edit"
+msgstr "संपादन"
+
+#. Applications: openoffice
+#. Context: Open office -Oocalc – File – Wizards – Letter. Defines the items to be included in the letter template.
+msgid "Envelope"
+msgstr "लिफ़ाफ़ा"
+
+#. Applications: openoffice
+#. Context: Open office – File – Exit. Exit from the application.
+msgid "Exit"
+msgstr "बाहर"
+
+#. Applications: openoffice
+#. Context: Open office – File – Export. Export a file to another format.
+msgid "Export"
+msgstr "निर्यात करें"
+
+#. Applications: evolution
+#. Context: Evolution – Folder – Expunge. Permanently delete the selected message.
+msgid "Expunge"
+msgstr "बिल्कुल हटा दें"
+
+#. Applications: firefox
+#. Context: Firefox – Tools – Extension. Manages the extension install in Firefox
+msgid "Extensions"
+msgstr "विस्तार"
+
+#. Applications: openoffice
+#. Context: Open office – Oodraw – Tools – Eyedropper. Opens the eyedropper dialog, where you can replace colors in bitmap and meta file graphics. You can replace up to four different colors at one time.
+msgid "Eyedropper"
+msgstr "ड्रॉपर"
+
+#. Applications: openoffice
+#. Context: Open office – oowriter – Tools – Update - Fields. Updates the contents of all fields in the current document.
+msgid "Fields"
+msgstr "क्षेत्र"
+
+#. Applications: evolution, firefox, gedit, gnometerminal, nautilus, openoffice
+#. Context: Open office, gedit, firefox.. etc – File. Which contain the document related things.
+msgid "File"
+msgstr "फ़ाइल"
+
+#. Applications: openoffice
+#. Context: Open office – Oocalc – Edit – Fill. Automatically fills cells with content.
+msgid "Fill"
+msgstr "भरें"
+
+#. Applications: openoffice
+#. Context: Open office – Oocalc – Data – Filter. Shows commands to filter your data.
+msgid "Filter"
+msgstr "फ़िल्टर"
+
+#. Applications: gedit
+#. Context: Gedit – Edit – Find. Find a particular phrase in a document
+msgid "Find"
+msgstr "ढूँढ़ें"
+
+#. Applications: openoffice
+#. Context: Open office – Oowriter – Format – Flip. Flips the selected object horizontally, or vertically.
+msgid "Flip"
+msgstr "पलटें"
+
+#. Applications: evolution
+#. Context: Evolution – Mail – Folder. Contains the folder
+msgid "Folder"
+msgstr "फ़ोल्डर"
+
+#. Applications: menu
+#. Context: Main menu – System - Preferences – Fonts. Opens the fonts folder.
+msgid "Fonts"
+msgstr "फ़ॉन्ट"
+
+#. Applications: openoffice
+#. Context: Open office – Oowriter – Insert – Footer. Inserting footer in a document.
+msgid "Footer"
+msgstr "पादिका"
+
+#. Applications: openoffice
+#. Context: Open office – Oowriter – Insert – Footnotes. Inserting footnotes in a document.
+msgid "Footnotes"
+msgstr "पाद टीका"
+
+#. Applications: openoffice
+#. Context: Open office -Oocalc – Format – Form. In this dialog you can specify, among others, the data source and the events for the whole form.
+msgid "Form"
+msgstr "फ़ॉर्म"
+
+#. Applications: openoffice
+#. Context: Open office – Format. The Format menu contains commands for formatting selected cells and cell contents in your document.
+msgid "Format"
+msgstr "प्रारूप"
+
+#. Applications: openoffice
+#. Context: Open office – Oowriter - Insert - Object - Formula Inserts a formula into the current document
+msgid "Formula"
+msgstr "सूत्र"
+
+#. Applications: evolution, firefox
+#. Context: Evolution – Mail – Message – Forward. Forwarding a selected message to somebody.
+msgid "Forward"
+msgstr "अग्रेषित करें"
+
+#. Applications: openoffice
+#. Context: Open office – Oowriter – Insert – Frame. Inserts a frame in a document.
+msgid "Frame"
+msgstr "ढाँचा"
+
+#. Applications: openoffice
+#. Context: Open office – Oocalc – Window – Freeze. Freezes the particular row or column.
+msgid "Freeze"
+msgstr "स्थिर करें"
+
+#. Applications: firefox, gnometerminal, openoffice
+#. Context: Firefox, Open office – View – Full screen. To view the application in full screen mode.
+msgid "Full Screen"
+msgstr "पूर्ण स्क्रीन"
+
+#. Applications: openoffice
+#. Context: Open office -Oocalc – Insert – Function. Opens the Function Wizard, which helps you to interactively create formulas.
+msgid "Function"
+msgstr "प्रकार्य"
+
+#. Applications: openoffice
+#. Context: Open office -Oocalc – Tools – Gallery. Opens the Gallery, where you can select graphics and sounds to insert into your document.
+msgid "Gallery"
+msgstr "दीर्घा"
+
+#. Applications: menu
+#. Context: Main menu – Graphics. Contains graphics application.
+msgid "Graphics"
+msgstr "चित्रादि"
+
+#. Applications: openoffice
+#. Context: Open office – Ooimpress – View – Grid. Sets the display properties of a grid.
+msgid "Grid"
+msgstr "जाली"
+
+#. Applications: openoffice
+#. Context: Open office – Oowriter – Format – Group. Groups keep together selected objects, so that they can be moved or formatted as a single object.
+msgid "Group"
+msgstr "समूह"
+
+#. Applications: openoffice
+#. Context: Open office – Oowriter – View – Guides. Specifies the display options for guides.
+msgid "Guides"
+msgstr "निदेशिका"
+
+#. Applications: openoffice
+#. Context: Open office – Oowriter – Insert – Header. Inserting header in a document.
+msgid "Header"
+msgstr "शीर्षिका"
+
+#. Applications: evolution, firefox, nautilus, openoffice, pidgin
+#. Context: It is the help menu for most of the application.
+msgid "Help"
+msgstr "मदद"
+
+#. Applications: gdmpaneldesktop
+#. Context: Gdm – Hibernate. Hibernate the system.
+msgid "Hibernate"
+msgstr "विश्राम दें"
+
+#. Applications: firefox
+#. Context: Firefox – History. The History menu contains a list of the most recently visited web sites and closed tabs.
+msgid "History"
+msgstr "इतिहास"
+
+#. Applications: firefox, nautilus
+#. Context: Firefox – History – Home. Displays your home page.
+msgid "Home"
+msgstr "घर"
+
+#. Applications: openoffice
+#. Context: Open office – Insert – Hyperlink. Inserts a hyperlink in a document.
+msgid "Hyperlink"
+msgstr "हाइपरलिंक"
+
+#. Applications: openoffice
+#. Context: open office – oowriter – Edit – Image map. Allows you to attach URLs to specific areas, called hotspots, on a graphic or a group of graphics. An image map is a group of one or more hotspots
+msgid "ImageMap"
+msgstr "चित्र नक़्शा"
+
+#. Applications: evolution, firefox
+#. Context: Evolution – File – Import. Imports something like files to the application.
+msgid "Import"
+msgstr "आयात करें"
+
+#. Applications: evolution
+#. Context: Evolution – Mail – Inbox. Incoming mails are saved in this folder.
+msgid "Inbox"
+msgstr "आई डाक"
+
+#. Applications: menu
+#. Context: Main menu – System – Preferences – Input method. Configures the input method.
+msgid "Input Method"
+msgstr "इनपुट विधि"
+
+#. Applications: openoffice
+#. Context: Open office – Insert. This is the menu which you can insert some thing you need in a document.
+msgid "Insert"
+msgstr "घुसाएँ"
+
+#. Applications: openoffice
+#. Context: Open office – Ooimpress – Slide show – Interaction. Defines how the selected object behaves when you click on it during a slide show.
+msgid "Interaction"
+msgstr "अंतःक्रिया"
+
+#. Applications: menu
+#. Context: Main Menu – Internet. Contains Internet related applications.
+msgid "Internet"
+msgstr "अंतर्जाल"
+
+#. Applications: evolution
+#. Context: Evolution – Mail – Message – Mark as – Junk.
+msgid "Junk"
+msgstr "कचरा"
+
+#. Applications: menu
+#. Context: Main menu - System – Preference – Keyboard. It is all about Keyboard setting.
+msgid "Keyboard"
+msgstr "कुंजीपट"
+
+#. Applications: gdmpaneldesktop, menu, openoffice
+#. Context: Main menu - System – Administration – Language. It is all about Language setting.
+msgid "Language"
+msgstr "भाषा"
+
+#. Applications: gdmpaneldesktop
+#. Context: Gdm – launch.
+msgid "Launch"
+msgstr "लॉन्च"
+
+#. Applications: evolution
+#. Context: Evolution – View – Layout.
+msgid "Layout"
+msgstr "ख़ाका"
+
+#. Applications: openoffice
+#. Context: Open office – Ooimpress – Format – Line. Set the formatting options for the selected line or the line that you want to draw.
+msgid "Line"
+msgstr "रेखा"
+
+#. Applications: openoffice
+#. Context: Open office – Edit – Links. Lets you edit the properties of each link in the current document, including the path to the source file.
+msgid "Links"
+msgstr "कड़ी"
+
+#. Applications: evolution
+#. Context: Evolution – Calendar - View – List.
+msgid "List"
+msgstr "सूची"
+
+#. Applications: openoffice
+#. Context: Open office – Tools – Macros. Lets you record or organize and edit macros.
+msgid "Macros"
+msgstr "मैक्रोज"
+
+#. Applications: openoffice
+#. Context: Open office – Ooimpress – view – Master. Whether to view the master slide or notes slide.
+msgid "Master"
+msgstr "मास्टर"
+
+#. Applications: evolution
+#. Context: Evolution – Mail - Message. This menu contains message related sub menus
+msgid "Message"
+msgstr "संदेश"
+
+#. Applications: evolution
+#. Context: Evolution – Calendar - View – Month.
+msgid "Month"
+msgstr "माह"
+
+#. Applications: menu
+#. Context: Main menu - System – Preference – Mouse. It is all about mouse setting.
+msgid "Mouse"
+msgstr "माउस"
+
+#. Applications: gdmpaneldesktop
+#. Context: Right click on item in the panel and you can move them across the panel.
+msgid "Move"
+msgstr "खिसकाएँ"
+
+#. Applications: openoffice
+#. Context: Open office –OO calc - Insert – Names. Allows you to name the different sections of your spreadsheet document.
+msgid "Names"
+msgstr "नाम"
+
+#. Applications: openoffice
+#. Context: Open office – View – Navigator – To hide or show the Navigator.
+msgid "Navigator"
+msgstr "संचरक"
+
+#. Applications: nautilus
+#. Context: Nautilus – Go – Network. Goes to Network folder.
+msgid "Network"
+msgstr "संजाल"
+
+#. Applications: evolution, gedit, openoffice
+#. Context: Openoffice – File – New. Opens a new document.
+msgid "New"
+msgstr "नया"
+
+#. Applications: evolution, openoffice
+#. Context: Evolution – Message – Go – Next. Goes to the Next message.
+msgid "Next"
+msgstr "आगे"
+
+#. Applications: openoffice
+#. Context: Open office – View – Normal. Views the document in normal mode
+msgid "Normal"
+msgstr "सामान्य"
+
+#. Applications: openoffice
+#. Context: Open office – Insert – Note. Inserts a note to a document.
+msgid "Note"
+msgstr "नोट"
+
+#. Applications: openoffice
+#. Context: Open office – Insert – Object. Inserts an object to a document.
+msgid "Object"
+msgstr "वस्तु"
+
+#. Applications: menu
+#. Context: Main Menu – Office. It contain Office suite application
+msgid "Office"
+msgstr "कार्यालय"
+
+#. Applications: gedit, openoffice
+#. Context: Open office – File – Open. Opens a file.
+msgid "Open"
+msgstr "खोलें"
+
+#. Applications: openoffice
+#. Context: Open office – Tools – Options. Opens a dialog where you can find options to configure the settings
+msgid "Options"
+msgstr "विकल्प"
+
+#. Applications: evolution
+#. Context: Evolution – Mail – Outbox. Outgoing mails are saved in this folder.
+msgid "Outbox"
+msgstr "जाती डाक"
+
+#. Applications: openoffice
+#. Context: Open office -Oocalc – Data – Outline. You can create an outline of your data.
+msgid "Outline"
+msgstr "रूपरेखा"
+
+#. Applications: openoffice
+#. Context: Open office – Oowriter - Format – Page. Allows you to define page layouts for single and multiple-page documents, as well as a numbering and paper formats.
+msgid "Page"
+msgstr "पृष्ठ"
+
+#. Applications: openoffice
+#. Context: Open office – oowriter - Format – Paragraph. Modifies the format of the current paragraph, such as indents and alignment.
+msgid "Paragraph"
+msgstr "अनुच्छेद"
+
+#. Applications: gdmpaneldesktop
+#. Context: Gdm – Password. Enter your password to login to your system.
+msgid "Password"
+msgstr "कूटशब्द"
+
+#. Applications: firefox, gdmpaneldesktop, gedit, gnometerminal, nautilus, openoffice
+#. Context: Open office, Firefox, Gedit... – Edit – Paste. Inserts the contents of the clipboard at the location of the cursor, and replaces any selected text or objects.
+msgid "Paste"
+msgstr "चिपकाएँ"
+
+#. Applications: evolution
+#. Context: Evolution – File – Permissions. Selecting folder permissions on calendars, tasks, and contact folders.
+msgid "Permissions"
+msgstr "अनुमति"
+
+#. Applications: evolution
+#. Context: Evolution – Calendar – On this computer – Personal.
+msgid "Personal"
+msgstr "निजी"
+
+#. Applications: openoffice
+#. Context: Open office – Insert – Picture. Inserts picture from a file.
+msgid "Picture"
+msgstr "तस्वीर"
+
+#. Applications: menu, nautilus
+#. Context: Main menu – System – Places.
+msgid "Places"
+msgstr "स्थान"
+
+#. Applications: openoffice
+#. Context: Open office – Oowriter – Insert – Object – Plug-in. Inserts a plug-in into the current document. A plug-in is a software component that extends the capabilities of a web browser.
+msgid "Plug-in"
+msgstr "प्लग-इन"
+
+#. Applications: openoffice
+#. Context: Open office – Oowriter – Format – Graphics – Points. Switches Edit Points mode for an inserted freeform line on and off.
+msgid "Points"
+msgstr "बिंदु"
+
+#. Applications: evolution, firefox, gedit, menu, nautilus, pidgin
+#. Context: Main menu – System – Preferences. Contain some configuration/setting related things.
+msgid "Preferences"
+msgstr "वरीयता"
+
+#. Applications: menu
+#. Context: Main menu – Office – Presentation. Opens the presentation application.
+msgid "Presentation"
+msgstr "प्रस्तुति"
+
+#. Applications: firefox
+#. Context: Firefox – File – Preview - Displays a preview of how the current document will appear when printed. It reflects the settings in the Page Setup dialog and the page author's intentions.
+msgid "Preview"
+msgstr "पूर्वावलोकन"
+
+#. Applications: evolution
+#. Context: Evolution – Message – Go – Previous. Goes to the previous message.
+msgid "Previous"
+msgstr "पिछला"
+
+#. Applications: firefox
+#. Context: Firefox – File – Print. Displays the Print dialog, where you can specify the number of printed copies, etc. Click OK to print the page.
+msgid "Print"
+msgstr "छापें"
+
+#. Applications: menu
+#. Context: Main menu – System – Administration – Printing. Configures Printing related things.
+msgid "Printing"
+msgstr "छप रहा है"
+
+#. Applications: pidgin
+#. Context: Pidgin – Tools – Privacy. Sets the privacy setting.
+msgid "Privacy"
+msgstr "गोपनीयता"
+
+#. Applications: gnometerminal
+#. Context: Terminal – Edit – Profiles. Edits the profile.
+msgid "Profiles"
+msgstr "प्रोफ़ाइल"
+
+#. Applications: menu
+#. Context: Main menu – Programming. Contains some programming application to start.
+msgid "Programming"
+msgstr "प्रोग्रामिंग"
+
+#. Applications: evolution, gdmpaneldesktop, nautilus, openoffice
+#. Context: Right click on the panel and you find the panel properties. The function is same for nautilus, open office etc..
+msgid "Properties"
+msgstr "गुण"
+
+#. Applications: openoffice
+#. Context: Open office – Oocalc – Format – Protect cell. Defines protection options for selected cells.
+msgid "Protect Cell"
+msgstr "कोष्ठ की सुरक्षा करें"
+
+#. Applications: evolution
+#. Context: Evolution – Calendar – Action – Purge. Permanently deleted the selected events.
+msgid "Purge"
+msgstr "निकाल दें"
+
+#. Applications: evolution, gedit, pidgin
+#. Context: Evolution – file – Quit. Quits from the application.
+msgid "Quit"
+msgstr "बाहर जाएँ"
+
+#. Applications: firefox, gedit
+#. Context: Firefox – Edit – Redo. Redoes the last Undo command.
+msgid "Redo"
+msgstr "फिर करें"
+
+#. Applications: openoffice
+#. Context: Open office – help – Registration. Register the product.
+msgid "Registration"
+msgstr "पंजीयन"
+
+#. Applications: firefox, nautilus, openoffice
+#. Context: Firefox – View – Reload. Gets the most up-to-date version of the current page.
+msgid "Reload"
+msgstr "फिर लोड करें"
+
+#. Applications: evolution, nautilus
+#. Context: Nautilus – Edit – Rename. Rename the file name.
+msgid "Rename"
+msgstr "नाम बदलें"
+
+#. Applications: openoffice
+#. Context: Open office – oowriter -Edit – Repeat. Repeats the last command.
+msgid "Repeat"
+msgstr "दोहराएँ"
+
+#. Applications: gedit
+#. Context: Gedit – Edit – Replace. Once find the text replace with other text.
+msgid "Replace"
+msgstr "बदलें"
+
+#. Applications: gnometerminal
+#. Context: Terminal – terminal – Reset.
+msgid "Reset"
+msgstr "फिर सेट करें"
+
+#. Applications: gdmpaneldesktop
+#. Context: Gdm – restart. Restarts the computer.
+msgid "Restart"
+msgstr "पुनः आरंभ करें"
+
+#. Applications: gedit
+#. Context: Gedit – File – Revert. Revert the previous document.
+msgid "Revert"
+msgstr "पुरानी स्थिति लौटाएँ"
+
+#. Applications: openoffice
+#. Context: Open office – Oowriter – Insert – Row. Inserting row in a table or spreadsheet.
+msgid "Row"
+msgstr "पंक्ति"
+
+#. Applications: openoffice
+#. Context: Open office – Oowriter – View – Ruler. Whether to show or not the ruler.
+msgid "Ruler"
+msgstr "रूलर"
+
+#. Applications: gedit, openoffice
+#. Context: Open office – File – save. Saves the document.
+msgid "Save"
+msgstr "सहेजें"
+
+#. Applications: openoffice
+#. Context: Open office – Oocalc – Tools – Scenario. Defines a scenario for the selected sheet area.
+msgid "Scenarios"
+msgstr "परिदृश्य"
+
+#. Applications: menu
+#. Context: Main menu – System – Preferences – Screensaver. Configures the screensaver.
+msgid "Screensaver"
+msgstr "स्क्रीनसेवर"
+
+#. Applications: openoffice
+#. Context: Open office – Oowriter – Insert – Script. Inserts a script.
+msgid "Script"
+msgstr "स्क्रिप्ट"
+
+#. Applications: evolution, gedit, nautilus
+#. Context: Nautilus – Search. To search in document.
+msgid "Search"
+msgstr "खोजें"
+
+#. Applications: openoffice
+#. Context: Open office – Oowriter - Insert – Section. Sets the properties of the section.
+msgid "Section"
+msgstr "खंड"
+
+#. Applications: openoffice
+#. Context: open office – Oowriter – Table – Select. Selects the table.
+msgid "Select"
+msgstr "चुनें"
+
+#. Applications: openoffice
+#. Context: Open office – File – Send. Sends the document as email.
+msgid "Send"
+msgstr "भेजें"
+
+#. Applications: evolution
+#. Context: Evolution – Mail – Sent. Sent message 'll be locate in sent folder.
+msgid "Sent"
+msgstr "गई डाक"
+
+#. Applications: menu
+#. Context: Main menu – System – Administration – Services. Configures the services
+msgid "Services"
+msgstr "सेवाएँ"
+
+#. Applications: menu
+#. Context: Main menu – System - Preferences – Sessions. Configures the sessions
+msgid "Sessions"
+msgstr "सत्र"
+
+#. Applications: openoffice
+#. Context: Open office -Oocalc – Insert – Sheet. Inserts a sheet in a document.
+msgid "Sheet"
+msgstr "शीट"
+
+#. Applications: evolution
+#. Context: Evolution – Mail – Show. To show some options
+msgid "Show"
+msgstr "दिखाएँ"
+
+#. Applications: firefox
+#. Context: Firefox – View – Sidebar. The Sidebar can display your bookmarks or the browsing history.
+msgid "Sidebar"
+msgstr "बाज़ू पट्टी"
+
+#. Applications: openoffice
+#. Context: Open office -Ooimpress – Insert – slide. Inserts a slide in a presentation.
+msgid "Slide"
+msgstr "स्लाइड"
+
+#. Applications: openoffice
+#. Context: Open office – Oocalc – Data – Sort. Sorts the selected rows according to the conditions that you specify.
+msgid "Sort"
+msgstr "छाटें"
+
+#. Applications: openoffice
+#. Context: Open office – Oowriter – Tools – Spellcheck. Checks the spelling.
+msgid "Spellcheck"
+msgstr "वर्तनी जाँच"
+
+#. Applications: openoffice
+#. Context: Open office – Window – Split. Divides the current window at the top left corner of the active cell.
+msgid "Split"
+msgstr "अलगाएँ"
+
+#. Applications: menu, openoffice
+#. Context: Main menu – Office – Spreadsheet. Opens the spreadsheet application.
+msgid "Spreadsheet"
+msgstr "स्प्रेडशीट"
+
+#. Applications: firefox, gedit
+#. Context: Firefox – View – Status bar. Toggles the visibility of the status bar, located at the bottom of the window.
+msgid "Statusbar"
+msgstr "स्थितिपट्टी"
+
+#. Applications: evolution, firefox, nautilus
+#. Context: Evolution – Contacts – Actions – Stop. It 'll stop the current action.
+msgid "Stop"
+msgstr "रोकें"
+
+#. Applications: evolution
+#. Context: Evolution – Mail – Folder – Subscriptions.
+msgid "Subscriptions"
+msgstr "सदस्यता"
+
+#. Applications: openoffice
+#. Context: Open office -Oocalc – Data – Subtotal. Calculates subtotals for the columns that you select.
+msgid "Subtotals"
+msgstr "उप-योग"
+
+#. Applications: evolution
+#. Context: Evolution – Task – summary. Summary of the tasks.
+msgid "Summary"
+msgstr "सारांश"
+
+#. Applications: openoffice
+#. Context: Open office – Help – Support. You can contact the open office support.
+msgid "Support"
+msgstr "समर्थन"
+
+#. Applications: gdmpaneldesktop, menu
+#. Context: Gdm – Suspend. System 'll go to suspend mode.
+msgid "Suspend"
+msgstr "स्थगित"
+
+#. Applications: menu
+#. Context: Main menu – System. Contains system related applications.
+msgid "System"
+msgstr "तंत्र"
+
+#. Applications: openoffice
+#. Context: Open office – Oowriter – Table. This menu contains table related items.
+msgid "Table"
+msgstr "सारणी"
+
+#. Applications: evolution, menu
+#. Context: Evolution – Tasks. You can organize your tasks here.
+msgid "Tasks"
+msgstr "कार्य"
+
+#. Applications: nautilus, openoffice
+#. Context: Open office – File – Templates. You can organize your template here.
+msgid "Templates"
+msgstr "नमूना ख़ाका"
+
+#. Applications: menu
+#. Context: Main menu – System tools – Terminal. Opens the terminal.
+msgid "Terminal"
+msgstr "टर्मिनल"
+
+#. Applications: openoffice
+#. Context: Open office – Ooimpress – Format – Text. Formatting the text.
+msgid "Text"
+msgstr "पाठ"
+
+#. Applications: firefox
+#. Context: Firefox – Tools – Themes. Your can select and set your theme for your browser.
+msgid "Themes"
+msgstr "प्रसंग"
+
+#. Applications: openoffice
+#. Context: Open office – View – Toolbars. Shows or hide the toolbar in the application.
+msgid "Toolbars"
+msgstr "औज़ारपट्टी"
+
+#. Applications: firefox, gedit, openoffice, pidgin
+#. Context: Firefox – Tools. This menu contains some tools for the application.
+msgid "Tools"
+msgstr "औज़ार"
+
+#. Applications: evolution, nautilus
+#. Context: Nautilus – Go – Trash. Goes to Trash folder.
+msgid "Trash"
+msgstr "रद्दी"
+
+#. Applications: openoffice
+#. Context: Open office – Insert – Indexes and tables – Type. Select the type of index that you want to insert.
+msgid "Type"
+msgstr "क़िस्म"
+
+#. Applications: firefox, gedit
+#. Context: Firefox – Edit – Undo. Undoes the last action in a text field.
+msgid "Undo"
+msgstr "पहले जैसा"
+
+#. Applications: evolution
+#. Context: Evolution – Mail – Search folder – Unmatched.
+msgid "Unmatched"
+msgstr "बेमेल"
+
+#. Applications: openoffice
+#. Context: Open office – Window – Untitled. The file which is not having file name or new file.
+msgid "Untitled"
+msgstr "बेनाम"
+
+#. Applications: openoffice
+#. Context: Open office – Oowriter – Tools – update. Updates items in the current document that have dynamic contents, so as fields and indexes.
+msgid "Update"
+msgstr "अद्यतन"
+
+#. Applications: openoffice
+#. Context: Open office – Oocalc – Data – Validity. Defines what data is valid for a selected cell or cell range.
+msgid "Validity"
+msgstr "वैधता"
+
+#. Applications: openoffice
+#. Context: Open office – File versions. Saves and organizes multiple versions of the current document in the same file. You can also open, delete, and compare previous versions.
+msgid "Versions"
+msgstr "संस्करण"
+
+#. Applications: evolution, gedit, nautilus, openoffice
+#. Context: Open office – View. Specifies the available display modes.
+msgid "View"
+msgstr "देखें"
+
+#. Applications: evolution
+#. Context: Evolution – Calendar – View – Week.
+msgid "Week"
+msgstr "सप्ताह"
+
+#. Applications: openoffice
+#. Context: Open office – Window. Organizes the window.
+msgid "Window"
+msgstr "खिड़की"
+
+#. Applications: openoffice
+#. Context: Open office – File – Wizards - Guides you through creating business and personal letters, faxes, agendas, presentations, and more.
+msgid "Wizards"
+msgstr "सहायक"
+
+#. Applications: openoffice
+#. Context: Open office – Oowriter – Format – Wrap. Contains text wrap options
+msgid "Wrap"
+msgstr "लपेटें"
+
+#. Applications: evolution, openoffice
+#. Context: Open office – View – Zoom. Specifies the current page display zoom factor.
+msgid "Zoom"
+msgstr "छोटा-बड़ा करें"
+
+#. Applications: menu
+#. Context: Main Menu - About GNOME
+msgid "About GNOME"
+msgstr "ग्नोम परिचय"
+
+#. Applications: menu
+#. Context: Main menu - System – preference – about me. It is giving user information of a system.
+msgid "About Me"
+msgstr "मेरा परिचय"
+
+#. Applications: firefox
+#. Context: About Mozilla Firefox
+msgid "About Mozilla Firefox"
+msgstr "मोज़िला फ़ायरफ़ॉक्स परिचय"
+
+#. Applications: gdmpaneldesktop
+#. Context: Right click on panel and it is about the panel
+msgid "About Panels"
+msgstr "पटल परिचय"
+
+#. Applications: nautilus
+#. Context: Nautilus - Bookmark – Add bookmark. Adding bookmark
+msgid "Add Bookmark"
+msgstr "पुस्तचिह्न जोड़ें"
+
+#. Applications: pidgin
+#. Context: Pidgin - Adding buddies in Chat application
+msgid "Add Buddy"
+msgstr "दोस्त जोड़ें"
+
+#. Applications: pidgin
+#. Context: Pidgin – Adding Chat in Chat application
+msgid "Add Chat"
+msgstr "नई गपशप"
+
+#. Applications: pidgin
+#. Context: Pidgin – Adding Group in Chat application
+msgid "Add Group"
+msgstr "समूह जोड़ें"
+
+#. Applications: pidgin
+#. Context: Pidgin – Account – Add/edit. Add or edit an account.
+msgid "Add/Edit"
+msgstr "जोड़ें/संपादित करें"
+
+#. Applications: evolution
+#. Context: Evolution – Mail – New – Address Book.
+msgid "Address Book"
+msgstr "पता पुस्तिका"
+
+#. Applications: evolution
+#. Context: Evolution – Search – Advanced search. Searching mails in advanced level by setting rules
+msgid "Advanced Search"
+msgstr "उन्नत खोज"
+
+#. Applications: openoffice
+#. Context: Open office – Ooimpress – Insert – Animated Image. Inserts a animation in the presentation.
+msgid "Animated Image"
+msgstr "चल छवि"
+
+#. Applications: evolution
+#. Context: Evolution – Mail – show - Any category.
+msgid "Any Category"
+msgstr "कोई श्रेणी"
+
+#. Applications: menu
+#. Context: Main menu – Accessories – Archive manager. Opens the archive manager.
+msgid "Archive Manager"
+msgstr "लेखागार प्रबंधक"
+
+#. Applications: nautilus
+#. Context: Nautilus – View – Arrange Items. Arranges files and folder in the selected way.
+msgid "Arrange Items"
+msgstr "वस्तुएँ जमाएँ"
+
+#. Applications: evolution
+#. Context: Evolution – Task – Action – Assign task. Assigns a task.
+msgid "Assign Task"
+msgstr "कार्य नियत करें"
+
+#. Applications: gedit
+#. Context: Gedit – Tools - Autocheck Spelling. Automatically check the spelling.
+msgid "Autocheck Spelling"
+msgstr "वर्तनी स्वचालित जाँचें"
+
+#. Applications: openoffice
+#. Context: Open office – Oowriter – Tools - Bibliography Database. Insert, delete, edit, and organize records in the bibliography database.
+msgid "Bibliography Database"
+msgstr "ग्रन्थ-सूची डेटाबेस"
+
+#. Applications: openoffice
+#. Context: Open office – Oowriter – Edit - Bibliography Entry. To edit bibliography entry.
+msgid "Bibliography Entry"
+msgstr "ग्रन्थ-सूची प्रविष्टि"
+
+#. Applications: gedit
+#. Context: Gedit – view – Bottom pane. To view the bottom pane.
+msgid "Bottom Pane"
+msgstr "निचला पट"
+
+#. Applications: nautilus
+#. Context: Nautilus – Browse folders
+msgid "Browse Folders"
+msgstr "फ़ोल्डर ब्राउज़ करें"
+
+#. Applications: pidgin
+#. Context: Pidgin – Tools – Buddy pounces. Buddy pounce is much like a macro, or a recorded action. When you set a pounce on someone, you can choose from a number of events, such as sign on or status change, and then you choose from a number of actions.
+msgid "Buddy Pounces"
+msgstr "दोस्त की दस्तक"
+
+#. Applications: evolution
+#. Context: Evolution – Contacts – View – Current view – By company.
+msgid "By Company"
+msgstr "कंपनी के अनुसार"
+
+#. Applications: openoffice
+#. Context: Open office -Edit - Can't Restore. In a new document there is nothing to restore.
+msgid "Can't Restore"
+msgstr "बहाली असंभव"
+
+#. Applications: openoffice
+#. Context: Open office -Edit - Can't Undo. n a new document there is nothing to undo.
+msgid "Can't Undo"
+msgstr "वापसी असंभव"
+
+#. Applications: evolution
+#. Context: Evolution – Mail – View – Caret mode. Click this option if you would like see a caret or cursor in the Yelp Browser Pane. This allows you to browse the document more easily by showing where the cursor is located in the document.
+msgid "Caret Mode"
+msgstr "हंसपद विधि"
+
+#. Applications: menu
+#. Context: Main menu – Sound & video -CD Player. Opens CD Player application.
+msgid "CD Player"
+msgstr "सीडी प्लेयर"
+
+#. Applications: openoffice
+#. Context: Open office – OOcalc – Tools – Cell contents. Opens a submenu with commands to calculate tables and activate AutoInput.
+msgid "Cell Contents"
+msgstr "कोष्ठ अंतर्वस्तु"
+
+#. Applications: openoffice
+#. Context: Open office – Oowriter – Format – Change case. Changes the case of the selected characters, or if the cursor is in a word, changes the case of all of the characters in the word.
+msgid "Change Case"
+msgstr "केस बदलें"
+
+#. Applications: gdmpaneldesktop
+#. Context: Gdm – To change the language of the system.
+msgid "Change Language"
+msgstr "भाषा बदलें"
+
+#. Applications: gnometerminal
+#. Context: Terminal – Edit – Change profile. With some option you can change the profile.
+msgid "Change Profile"
+msgstr "प्रोफ़ाइल बदलें"
+
+#. Applications: gdmpaneldesktop
+#. Context: Gdm – To change the session of the system.
+msgid "Change Session"
+msgstr "सत्र बदलें"
+
+#. Applications: evolution, firefox
+#. Context: Firefox – View – Character encoding. Allows you to manually change the character encoding on a web page. Firefox usually does this automatically.
+msgid "Character Encoding"
+msgstr "वर्ण एन्कोडिंग"
+
+#. Applications: menu
+#. Context: Main Menu – Accessories – Character Map. Opens the character map.
+msgid "Character Map"
+msgstr "वर्ण तालिका"
+
+#. Applications: gedit
+#. Context: Gedit – Tools - Check Spelling. Checks the spelling in the document.
+msgid "Check Spelling"
+msgstr "वर्तनी जाँचें"
+
+#. Applications: gedit
+#. Context: Gedit – Search - Clear Highlight.
+msgid "Clear Highlight"
+msgstr "आलोकन हटाएँ"
+
+#. Applications: firefox
+#. Context: Firefox – Tools – Clear private Data. Allows you to erase your browsing history, temporarily stored files, cookies, and other private data
+msgid "Clear Private Data"
+msgstr "निजी आँकड़ा साफ करें"
+
+#. Applications: gedit
+#. Context: Gedit – Document – Close All. Closes all the documents.
+msgid "Close All"
+msgstr "सभी बंद करें"
+
+#. Applications: firefox, gnometerminal
+#. Context: Terminal – File – Close Tab. Closes the tab.
+msgid "Close Tab"
+msgstr "टैब बंद करें"
+
+#. Applications: evolution, firefox, gnometerminal, openoffice
+#. Context: Terminal – File – Close window. Closes the window.
+msgid "Close Window"
+msgstr "विंडो बंद करें"
+
+#. Applications: openoffice
+#. Context: Open office – Oodraw – View – Color/Grayscale.
+msgid "Color/Grayscale"
+msgstr "रंगीन/धूसर"
+
+#. Applications: openoffice
+#. Context: Open office – Oowriter – Edit - Compare Documents. Compares the current document with a document that you select.
+msgid "Compare Documents"
+msgstr "दस्तावेज़ की तुलना करें"
+
+#. Applications: openoffice
+#. Context: Open office – Oowriter - Format – Conditional Formatting. Choose Conditional Formatting to define format styles depending on certain conditions.
+msgid "Conditional Formatting"
+msgstr "सशर्त प्रारूपण"
+
+#. Applications: menu
+#. Context: Main Menu – System tools – Configuration Editor. Opens the configuration Editor.
+msgid "Configuration Editor"
+msgstr "विन्यास संपादक"
+
+#. Applications: gdmpaneldesktop
+#. Context: Gdm – Connection Information. Shows the network connection information.
+msgid "Connection Information"
+msgstr "कनेक्शन सूचना"
+
+#. Applications: evolution
+#. Context: Evolution – Task - Convert to Task
+msgid "Convert to Task"
+msgstr "कार्य में बदलें"
+
+#. Applications: gdmpaneldesktop, nautilus
+#. Context: Right click on the desktop – Create Document. Creates a document on the desktop.
+msgid "Create Document"
+msgstr "दस्तावेज़ बनाएँ"
+
+#. Applications: gdmpaneldesktop, nautilus
+#. Context: Right click on the desktop – Create Folder. Creates a folder on the desktop.
+msgid "Create Folder"
+msgstr "फ़ोल्डर बनाएँ"
+
+#. Applications: gdmpaneldesktop
+#. Context: Right click on the desktop – Create Launcher. Creates a launcher of any application on the desktop.
+msgid "Create Launcher"
+msgstr "लॉन्चर बनाएँ"
+
+#. Applications: evolution
+#. Context: Evolution – Mail – Message – Create rule. Creates filter rule for message.
+msgid "Create Rule"
+msgstr "नियम बनाएँ"
+
+#. Applications: openoffice
+#. Context: Open office – Oowriter – Insert – Cross-reference. Cross-references allow you to jump to specific text passages and objects in a single document. A cross-reference consists of a target and a reference that are inserted as fields in the document.
+msgid "Cross-reference"
+msgstr "प्रति-संदर्भ"
+
+#. Applications: gnometerminal
+#. Context: Terminal – View – current locale
+msgid "Current Locale"
+msgstr "मौजूदा लोकेल"
+
+#. Applications: gnometerminal
+#. Context: Terminal – View – current profile
+msgid "Current Profile"
+msgstr "मौजूदा प्रोफ़ाइल"
+
+#. Applications: evolution
+#. Context: Evolution – Mail – View – Current view. Shows the current view option
+msgid "Current View"
+msgstr "मौजूदा दृश्य"
+
+#. Applications: openoffice
+#. Context: Open office – Ooimpress – Slide show – Custom animation.
+msgid "Custom Animation"
+msgstr "मनपसंद चल छवि"
+
+#. Applications: evolution
+#. Context: Evolution – Mail – View – Current view – Day view. Shows the day view
+msgid "Day View"
+msgstr "दैनिक दृश्य"
+
+#. Applications: pidgin
+#. Context: Pidgin – Help – Debug window.
+msgid "Debug Window"
+msgstr "दोष सुधार ख़िड़की"
+
+#. Applications: openoffice
+#. Context: Open office – Oowriter – Format – Default Formatting. Removes direct formatting and formatting by character styles from the selection.
+msgid "Default Formatting"
+msgstr "तयशुदा प्रारूपण"
+
+#. Applications: menu
+#. Context: Main menu – System – Preferences – Default Printer. Configure the Default printer.
+msgid "Default Printer"
+msgstr "तयशुदा मुद्रक"
+
+#. Applications: openoffice
+#. Context: Open office – Oocalc - Data – Define Range. Defines data range.
+msgid "Define Range"
+msgstr "दायरा परिभाषित करें"
+
+#. Applications: evolution
+#. Context: Evolution – View – Define views.
+msgid "Define Views"
+msgstr "दृश्य परिभाषित करें"
+
+#. Applications: openoffice
+#. Context: Open office -Oocalc – Edit – Delete Cells. Deletes the selected cells
+msgid "Delete Cells"
+msgstr "कोष्ठ मिटाएँ"
+
+#. Applications: openoffice
+#. Context: Open office -Oocalc – Edit – Delete Contents. Deletes the selected cells content only.
+msgid "Delete Contents"
+msgstr "अंतर्वस्तु मिटाएँ"
+
+#. Applications: evolution
+#. Context: Evolution – mail – Message – Delete message . Deletes the selected messages.
+msgid "Delete Message"
+msgstr "संदेश मिटाएँ"
+
+#. Applications: openoffice
+#. Context: Open office – Ooimpress – Edit - Delete Slide. Deletes the selected slide.
+msgid "Delete Slide"
+msgstr "स्लाइड मिटाएँ"
+
+#. Applications: menu
+#. Context: Main Menu – System - Preferences – Desktop Background. Setting up the desktop background.
+msgid "Desktop Background"
+msgstr "डेस्कटॉप पृष्ठभूमि"
+
+#. Applications: menu
+#. Context: Main Menu – System - Preferences – Desktop Effects. Setting up the desktop Effects.
+msgid "Desktop Effects"
+msgstr "डेस्कटॉप प्रभाव"
+
+#. Applications: gnometerminal
+#. Context: Terminal – Tabs – Detach Tab. Detaches the current tab.
+msgid "Detach Tab"
+msgstr "टैब अलग करें"
+
+#. Applications: openoffice
+#. Context: Open office – File – Digital signatures. Adds and removes digital signatures to and from your document. You can also use the dialog to view certificates.
+msgid "Digital Signatures"
+msgstr "डिजिटल हस्ताक्षर"
+
+#. Applications: gedit
+#. Context: Gedit – Tools – Document statistics. Shows the statistic of the Document.
+msgid "Document Statistics"
+msgstr "दस्तावेज़ सांख्यिकी"
+
+#. Applications: firefox
+#. Context: It is an addon for firefox.
+msgid "DOM Inspector"
+msgstr "डीओएम निरीक्षक"
+
+#. Applications: openoffice
+#. Context: Open office -Ooimpress – Insert – Duplicate slide. Inserts a Duplicate slide in a presentation.
+msgid "Duplicate Slide"
+msgstr "स्लाइड की नक़ल"
+
+#. Applications: nautilus
+#. Context: Nautilus - Bookmark – Edit bookmarks. Editing bookmark
+msgid "Edit Bookmarks"
+msgstr "पुस्तचिह्न संपादित करें"
+
+#. Applications: openoffice
+#. Context: Open office – Ooimpress – Empty presentation. To open a empty presentation.
+msgid "Empty Presentation"
+msgstr "कोरी प्रस्तुति"
+
+#. Applications: evolution
+#. Context: Evolution – Mail – File – Empty Trash. Empty the Trash folder.
+msgid "Empty Trash"
+msgstr "रद्दी खाली करें"
+
+#. Applications: gdmpaneldesktop
+#. Context: Gdm – Enable Networking. To enable the available network.
+msgid "Enable Networking"
+msgstr "संजालन सक्रिय करें"
+
+#. Applications: openoffice
+#. Context: Open office – Edit – Exchange database.
+msgid "Exchange Database"
+msgstr "डेटाबेस विनिमय करें"
+
+#. Applications: openoffice
+#. Context: Open office -Ooimpress – Insert – Expand slide.
+msgid "Expand Slide"
+msgstr "स्लाइड फैलाएँ"
+
+#. Applications: gdmpaneldesktop
+#. Context: Gdm – Fail safe terminal.
+msgid "Failsafe Terminal"
+msgstr "फ़ेलसेफ़ टर्मिनल"
+
+#. Applications: openoffice
+#. Context: Open office – Oowriter – View – Field names. Shows the field names.
+msgid "Field Names"
+msgstr "क्षेत्र नाम"
+
+#. Applications: openoffice
+#. Context: Open office – Oowriter – View – Field shadings. Show or hide the field shadings.
+msgid "Field Shadings"
+msgstr "क्षेत्र रंग"
+
+#. Applications: menu
+#. Context: Main Menu – System tools – File Browser. Opens the file browser.
+msgid "File Browser"
+msgstr "फ़ाइल ब्राउज़र"
+
+#. Applications: menu
+#. Context: Main menu - System – preference – File management. Configures the file management.
+msgid "File Management"
+msgstr "फ़ाइल प्रबंधन"
+
+#. Applications: pidgin
+#. Context: Pidgin – Tools – File transfers.
+msgid "File Transfers"
+msgstr "फ़ाइल हस्तांतरण"
+
+#. Applications: firefox
+#. Context: Firefox – Edit – Find again. Searches for the next occurrence of the text specified when using the Find in This Page… command.
+msgid "Find Again"
+msgstr "फिर ढूँढें"
+
+#. Applications: gedit
+#. Context: Gedit – Search – Find next. Find the next word.
+msgid "Find Next"
+msgstr "अगला ढूँढें"
+
+#. Applications: evolution
+#. Context: Evolution – Mail – Search – Find now.
+msgid "Find Now"
+msgstr "अब ढ़ूँढें"
+
+#. Applications: gedit
+#. Context: Gedit – Search – Find Previous. Find the Previous word.
+msgid "Find Previous"
+msgstr "पिछला ढूँढ़ें"
+
+#. Applications: openoffice
+#. Context: Open office – Oowriter - Insert – Floating Frame. Inserts a floating frame into the current document.
+msgid "Floating Frame"
+msgstr "तैरता फ़्रेम"
+
+#. Applications: evolution
+#. Context: Evolution – File - Forget Passwords. Reset all the passwords which are remembered.
+msgid "Forget Passwords"
+msgstr "कूटशब्द भूल गए"
+
+#. Applications: openoffice
+#. Context: Open office – Oowriter – Insert – Formatting mark. Opens a submenu to insert special formatting marks
+msgid "Formatting Mark"
+msgstr "प्रारूपण चिह्न"
+
+#. Applications: openoffice
+#. Context: Open office – Oocalc – View – Formula bar. Shows or hides the Formula Bar, which is used for entering and editing formulas.
+msgid "Formula Bar"
+msgstr "सूत्र पट्टी"
+
+#. Applications: evolution
+#. Context: Evolution – Mail – Message – Forward As.
+msgid "Forward As"
+msgstr "ऐसे अग्रेषित करें"
+
+#. Applications: evolution
+#. Context: Evolution – Contact – Action – Forward contact.
+msgid "Forward Contact"
+msgstr "संपर्क अग्रेषित करें"
+
+#. Applications: openoffice
+#. Context: Open office – Oowriter – File – From template.
+msgid "From Template"
+msgstr "नमूना ख़ाका से"
+
+#. Applications: openoffice
+#. Context: Open office – Oocalc – Insert – Function list.
+msgid "Function List"
+msgstr "प्रकार्य सूची"
+
+#. Applications: openoffice
+#. Context: Open office – Ooimpress – View – Toolbar – Glue points. Shows the Glue point toolbar.
+msgid "Glue Points"
+msgstr "ग्लू प्वाइंट"
+
+#. Applications: evolution
+#. Context: Evolution – Mail – Message – Go To. Goes through the messeges.
+msgid "Go to"
+msgstr "पंक्ति पर जाएँ"
+
+#. Applications: openoffice
+#. Context: Open office – Oocalc – Tools – Goal seek. Opens a dialog where you can solve an equation with a variable.
+msgid "Goal Seek"
+msgstr "लक्ष्य खोज"
+
+#. Applications: openoffice
+#. Context: Open office – Ooimpress – View – Handout page. View the slides as handout page.
+msgid "Handout Page"
+msgstr "परचा पृष्ठ"
+
+#. Applications: firefox
+#. Context: Firefox – Help – Help contents. Shows the help of the application.
+msgid "Help Contents"
+msgstr "मदद विषय सूची"
+
+#. Applications: openoffice
+#. Context: Open office – oowriter – View - Hidden Paragraphs. To view the paragraphs which are hidden.
+msgid "Hidden Paragraphs"
+msgstr "छिपे अनुच्छेद"
+
+#. Applications: gedit
+#. Context: Gedit – View – Highlight mode.
+msgid "Highlight Mode"
+msgstr "आलोकन विधि"
+
+#. Applications: menu
+#. Context: Main menu – Place – Home folder. Opens the Home folder in nautilus
+msgid "Home Folder"
+msgstr "घर फ़ोल्डर"
+
+#. Applications: openoffice
+#. Context: Open office – Oowriter – View Horizontal ruler.
+msgid "Horizontal Ruler"
+msgstr "क्षैतिज रूलर"
+
+#. Applications: openoffice
+#. Context: open office – oowriter – Insert – Index entry. Inserts an index or a table of contents at the current cursor position.
+msgid "Index Entry"
+msgstr "अनुक्रमणिका प्रविष्टि"
+
+#. Applications: gedit
+#. Context: Gedit – Search – Interactive search.
+msgid "Interactive Search"
+msgstr "अंतःक्रियात्मक खोज"
+
+#. Applications: menu
+#. Context: Main menu – Internet – Internet messenger. Opens the Internet messenger application.
+msgid "Internet Messenger"
+msgstr "अंतर्जाल मैसेंजर"
+
+#. Applications: firefox
+#. Context: This is a firefox addon.
+msgid "JavaScript Console"
+msgstr "जावास्क्रिप्ट कंसोल"
+
+#. Applications: gdmpaneldesktop
+#. Context: Right click on the desktop – Keep Aligned. This 'll arrange the icons aligned.
+msgid "Keep Aligned"
+msgstr "संरेखित रखें"
+
+#. Applications: gnometerminal, menu
+#. Context: Menu – System – Preference. Keyboard shortcuts.
+msgid "Keyboard Shortcuts"
+msgstr "कुंजीपट शॉर्टकट"
+
+#. Applications: menu
+#. Context: Main menu – Accessories – Keyring manager. Manages the password for your system.
+msgid "Keyring Manager"
+msgstr "कुंजीगुच्छ प्रबंधक"
+
+#. Applications: gdmpaneldesktop
+#. Context: Gdm – Last session. Restores the last session.
+msgid "Last Session"
+msgstr "पिछला सत्र"
+
+#. Applications: openoffice
+#. Context: open office – oowriter – Tools – Line Numbering. Adds or removes and formats line numbers in the current document.
+msgid "Line Numbering"
+msgstr "पंक्ति क्रमांकण"
+
+#. Applications: evolution
+#. Context: Evolution – Calendar – View – Current View – List View.
+msgid "List View"
+msgstr "सूची दृश्य"
+
+#. Applications: evolution
+#. Context: Evolution – Mail – View – Load images.
+msgid "Load Images"
+msgstr "छवि लोड करें"
+
+#. Applications: menu
+#. Context: Main menu – System - Preferences – Login screen. Settings of login screen.
+msgid "Login Screen"
+msgstr "लॉगिन स्क्रीन"
+
+#. Applications: evolution
+#. Context: Evolution – mail – Messages - Mailing List.
+msgid "Mailing List"
+msgstr "डाक सूची"
+
+#. Applications: nautilus
+#. Context: Nautilus – Edit – Make links. Make a shortcut of a selected file or folder.
+msgid "Make Links"
+msgstr "कड़ी बनाएँ"
+
+#. Applications: firefox
+#. Context: Firefox – Bookmark – Manage Bookmarks. Displays the Library, a window where you can modify your bookmarks. You can sort, rename and change the properties for your bookmarks as well as add, remove, and move them.
+msgid "Manage Bookmarks"
+msgstr "पुस्तचिह्न प्रबंधित करें"
+
+#. Applications: openoffice
+#. Context: Open office – Oowriter – Insert – Manual break. Inserts a manual page break in the document.
+msgid "Manual Break"
+msgstr "दस्ती अंतराल"
+
+#. Applications: evolution
+#. Context: Evolution – Mail – Messages – Mark as.
+msgid "Mark As"
+msgstr "ऐसे चिह्नित करें"
+
+#. Applications: openoffice
+#. Context: Open office – Oowriter – Tools – media player - Opens the Media Player window where you can preview movie and sound files as well as insert these files into the current document.
+msgid "Media Player"
+msgstr "मीडिया प्लेयर"
+
+#. Applications: menu
+#. Context: Main menu – System - Preferences – Menu layout.
+msgid "Menu Layout"
+msgstr "मेन्यू ख़ाका"
+
+#. Applications: openoffice
+#. Context: Open office – Oocalc- Format – Merge cells. Combines the selected cells into a single cell or splits merged cells.
+msgid "Merge Cell"
+msgstr "कोष्ठ मिलाएँ"
+
+#. Applications: openoffice
+#. Context: Open office – Oowriter – Table – Merge Table. Combines the selected table into one.
+msgid "Merge Table"
+msgstr "सारणी मिलाएँ"
+
+#. Applications: evolution
+#. Context: Evolution – Mail – Edit – Message Filters.
+msgid "Message Filters"
+msgstr "संदेश फ़िल्टर"
+
+#. Applications: evolution
+#. Context: Evolution – Mail – View – Message source. Shows the message source.
+msgid "Message Source"
+msgstr "संदेश स्रोत"
+
+#. Applications: evolution
+#. Context: Evolution – Calender – View – current - Month view.
+msgid "Month View"
+msgstr "मासिक दृश्य"
+
+#. Applications: menu
+#. Context: Main menu – System – Preferences – More preferences.
+msgid "More Preferences"
+msgstr "और वरीयताएँ"
+
+#. Applications: openoffice
+#. Context: open office – Oocalc - Data – Multiple operations. Applies the same formula to different cells, but with different parameter values.
+msgid "Multiple Operations"
+msgstr "बहुल संक्रिया"
+
+#. Applications: pidgin
+#. Context: Pidgin – Tools – Mute sounds. Mutes the alert sounds.
+msgid "Mute Sounds"
+msgstr "मूक करें"
+
+#. Applications: menu
+#. Context: Main menu – system – Preferences – Network proxy. Configures the network proxy.
+msgid "Network Proxy"
+msgstr "संजाल प्रॉक्सी"
+
+#. Applications: menu
+#. Context: Main menu – system – Preferences – Network Servers. Configures the network Servers.
+msgid "Network Servers"
+msgstr "संजाल सर्वर"
+
+#. Applications: Evolution
+#. Context: Evolution – Mail – File – New message.
+msgid "New Message"
+msgstr "नया संदेश"
+
+#. Applications: gdmpaneldesktop
+#. Context: Right click on the panel and you can add a new panel.
+msgid "New Panel"
+msgstr "नया पटल"
+
+#. Applications: gnometerminal
+#. Context: Terminal – File – New Profile. Assigns a new profile
+msgid "New Profile"
+msgstr "नया प्रोफ़ाइल"
+
+#. Applications: firefox
+#. Context: Firefox – File – New Tab. Opens a new browser tab in the current Firefox window.
+msgid "New Tab"
+msgstr "नया टैब"
+
+#. Applications: evolution, firefox, openoffice
+#. Context: Open office – Window – New window. Opens a new window of the same document.
+msgid "New Window"
+msgstr "नया विंडो"
+
+#. Applications: gedit
+#. Context: Gedit – Document – Next Document. Go to the next document.
+msgid "Next Document"
+msgstr "अगला दस्तावेज़"
+
+#. Applications: gnometerminal
+#. Context: Terminal – Tab - Next Tab. Go to the next tab.
+msgid "Next Tab"
+msgstr "अगला टैब"
+
+#. Applications: openoffice
+#. Context: Open office – oowriter – View - View - Nonprinting Characters. Shows nonprinting characters in your text, such as paragraph marks, line breaks, tab stops, and spaces.
+msgid "Nonprinting Characters"
+msgstr "न छपने वाले वर्ण"
+
+#. Applications: gnometerminal, nautilus
+#. Context: Terminal – View - Normal Size. Shows the terminal in normal size.
+msgid "Normal Size"
+msgstr "सामान्य आकार"
+
+#. Applications: openoffice
+#. Context: Open office – Ooimpress – View – Notes Page. Shows in notes page.
+msgid "Notes Page"
+msgstr "नोट्स पृष्ठ"
+
+#. Applications: openoffice
+#. Context: Open office -Oowriter- Table – Number format. Open a dialog where you can specifiy the format of numbers in the table.
+msgid "Number Format"
+msgstr "संख्या प्रारूप"
+
+#. Applications: pidgin
+#. Context: Pidgin – Help – Online help. Provide online help.
+msgid "Online Help"
+msgstr "ऑनलाइन मदद"
+
+#. Applications: firefox
+#. Context: Firefox – File – Open file. Displays an Open File dialog where you can select a file from your local disks or network.
+msgid "Open File"
+msgstr "फ़ाइल खोलें"
+
+#. Applications: firefox, gedit, nautilus
+#. Context: Firefox – File – Open location. Focuses on the Firefox URL bar so you can type in a new location to visit.
+msgid "Open Location"
+msgstr "स्थान खोलें"
+
+#. Applications: nautilus
+#. Context: Nautilus – Go – open Parent. Up to one level in the folder
+msgid "Open Parent"
+msgstr "मूल खोलें"
+
+#. Applications: gnometerminal
+#. Context: Terminal – File – Open Tab. Opens a new tab.
+msgid "Open Tab"
+msgstr "टैब खोलें"
+
+#. Applications: gdmpaneldesktop, gnometerminal
+#. Context: Nautilus – File – Open terminal. Open the current location on the terminal.
+msgid "Open Terminal"
+msgstr "टर्मिनल खोलें"
+
+#. Applications: openoffice
+#. Context: Open office -oowriter – Tools - Outline Numbering. You can modify the heading hierarchy or assign a level in the hierarchy to a custom paragraph style.
+msgid "Outline Numbering"
+msgstr "क्रमांकन प्रारूप"
+
+#. Applications: Menu
+#. Context: Main menu – System tools – Package manager.
+msgid "Package Manager"
+msgstr "पैकेज प्रबंधक"
+
+#. Applications: firefox
+#. Context: Firefox – Tools – Page Info. Displays extensive information about the current web page, such as the document type, encoding, size, and security information.
+msgid "Page Info"
+msgstr "पृष्ठ सूचना"
+
+#. Applications: openoffice
+#. Context: Open office – oowriter – Insert – Page name. Inserts the page number in the doucment.
+msgid "Page Number"
+msgstr "पृष्ठ संख्या"
+
+#. Applications: openoffice
+#. Context: Open office – File – Page preview. Displays a preview of the printed page or closes the preview.
+msgid "Page Preview"
+msgstr "पृष्ठ पूर्वावलोकन"
+
+#. Applications: firefox
+#. Context: Firefox – File – Page setup. Displays a Page Setup dialog where you can specify printing settings such as margins, headers and footers, and page orientation.
+msgid "Page Setup"
+msgstr "पृष्ठ सेटअप"
+
+#. Applications: firefox
+#. Context: Firefox – View – Page source. Displays the source code for the current document.
+msgid "Page Source"
+msgstr "पृष्ठ स्रोत"
+
+#. Applications: firefox
+#. Context: Firefox – View – Page style. Allows you to select a style for the current web page. By default, Basic Page Style is selected unless the author specifies a different default.
+msgid "Page Style"
+msgstr "पृष्ठ शैली"
+
+#. Applications: menu
+#. Context: Main menu - System – preference – PalmOS Devices.
+msgid "PalmOS Devices"
+msgstr "पामओएस युक्ति"
+
+#. Applications: openoffice
+#. Context: Open office – Edit – Paste Special. Inserts the contents of the clipboard into the current file in a format that you can specify.
+msgid "Paste Special"
+msgstr "ख़ास ढंग से चिपकाएँ"
+
+#. Applications: evolution
+#. Context: Evolution – New – Phone list.
+msgid "Phone List"
+msgstr "फोन सूची"
+
+#. Applications: menu
+#. Context: Main menu - System – preference – Power management. Configures the power management.
+msgid "Power Management"
+msgstr "बिजली प्रबंधन"
+
+#. Applications: menu
+#. Context: Main menu - System – preference – Preferred Application. Configures the preferred applications.
+msgid "Preferred Applications"
+msgstr "पसंदीदा अनुप्रयोग"
+
+#. Applications: openoffice
+#. Context: Open office – Ooimpress – File – Presentation Wizard. To create a presentation using this wizard
+msgid "Presentation Wizard"
+msgstr "प्रस्तुति सहायक"
+
+#. Applications: gedit
+#. Context: Gedit – Document - Previous Document. Go to the previous document.
+msgid "Previous Document"
+msgstr "पिछला दस्तावेज़"
+
+#. Applications: gnometerminal
+#. Context: Terminal – Tab - Previous Tab. Go to the Previous tab.
+msgid "Previous Tab"
+msgstr "पिछला टैब"
+
+#. Applications: openoffice
+#. Context: Open office – oowriter – View – Print layout. Show the print layout.
+msgid "Print Layout"
+msgstr "छपाई ख़ाका"
+
+#. Applications: firefox
+#. Context: Open office – File – Print preview. Displays a preview of how the current document will appear when printed. It reflects the settings in the Page Setup dialog and the page author's intentions.
+msgid "Print Preview"
+msgstr "छपाई पूर्वावलोकन"
+
+#. Applications: openoffice
+#. Context: Open office – Oocalc – Format – Print Ranges. Defines the print range for the current document.
+msgid "Print Ranges"
+msgstr "छपाई दायरा"
+
+#. Applications: openoffice
+#. Context: Open office – File – Printer settings. Select the default printer for the current document.
+msgid "Printer Settings"
+msgstr "प्रिंटर सेटिंग"
+
+#. Applications: menu
+#. Context: Main menu – Office – Project management. Opens Project management application.
+msgid "Project Management"
+msgstr "प्रॉजेक्ट प्रबंधन"
+
+#. Applications: openoffice
+#. Context: Open office – Oocalc – Tools – Protect Document.
+msgid "Protect Document"
+msgstr "दस्तावेज की सुरक्षा करें"
+
+#. Applications: evolution
+#. Context: Evolution – Help – Quick reference. A PDF help.
+msgid "Quick Reference"
+msgstr "द्रुत संदर्भ"
+
+#. Applications: firefox
+#. Context: It is a firefox addon
+msgid "Read Mail"
+msgstr "डाक पढ़ें"
+
+#. Applications: openoffice
+#. Context: Open office – File – Recent Documents. Lists the most recently opened files.
+msgid "Recent Documents"
+msgstr "हालिया दस्तावेज़"
+
+#. Applications: openoffice
+#. Context: Open office – Oocalc – Data – Refresh Range. Updates a data range that was inserted from an external database.
+msgid "Refresh Range"
+msgstr "दायरा ताज़ा करें"
+
+#. Applications: openoffice
+#. Context: Open office – Slide show – Rehearse Timings. Assists you in defining the right rehearse timings for automatic slide changes.
+msgid "Rehearse Timings"
+msgstr "समयाभ्यास"
+
+#. Applications: menu
+#. Context: Main menu - System – preferences – Remote Desktop. Configures the remote desktop.
+msgid "Remote Desktop"
+msgstr "दूरस्थ डेस्कटॉप"
+
+#. Applications: pidgin
+#. Context: Pidgin – Tools – Room list. To get the list of room for chat.
+msgid "Room List"
+msgstr "कक्ष सूची"
+
+#. Applications: menu
+#. Context: Main menu - System – preferences – Root Password.
+msgid "Root Password"
+msgstr "रूट कूटशब्द"
+
+#. Applications: gedit, openoffice
+#. Context: Open office – File – Save all. Saves all open OpenOffice.org documents. This command is only available if two or more files have been modified.
+msgid "Save All"
+msgstr "सभी सहेजें"
+
+#. Applications: gedit, openoffice
+#. Context: Open office – File – Save as. Saves the current document in a different location, or with a different file name or file type.
+msgid "Save As"
+msgstr "ऐसे सहेजें"
+
+#. Applications: evolution
+#. Context: Evolution – Mail – Search – Save search.
+msgid "Save Search"
+msgstr "खोज सहेजें"
+
+#. Applications: menu
+#. Context: Main menu - System – preferences – Scanner Tool.
+msgid "Scanner Tool"
+msgstr "स्कैनर औज़ार"
+
+#. Applications: menu
+#. Context: Main menu - System – preferences – Screen resolution. Configures the screen resolution.
+msgid "Screen Resolution"
+msgstr "स्क्रीन रेज़ॉल्यूशन"
+
+#. Applications: evolution
+#. Context: Evolution – Mail – Edit – Search folders.
+msgid "Search Folders"
+msgstr "फ़ोल्डर खोजें"
+
+#. Applications: firefox, gedit, nautilus, openoffice
+#. Context: Open office – Edit – Select all. Select all in the document.
+msgid "Select All"
+msgstr "सभी चुनें"
+
+#. Applications: evolution
+#. Context: Evolution – calendar - View – Select date.
+msgid "Select Date"
+msgstr "तिथि चुनें"
+
+#. Applications: nautilus
+#. Context: Nautilus – Edit – Select pattern. You can select pattern for the background.
+msgid "Select Pattern"
+msgstr "पैटर्न चुनें"
+
+#. Applications: openoffice
+#. Context: Open office – Oocalc – Data – Select Range. Selects a database range that you defined under Data - Define Range.
+msgid "Select Range"
+msgstr "दायरा चुनें"
+
+#. Applications: openoffice
+#. Context: Open office – oowriter – Edit – Select text. You can enable a selection cursor in a read-only text document or in the Help.
+msgid "Select Text"
+msgstr "पाठ चुनें"
+
+#. Applications: evolution
+#. Context: Evolution – calendar - View – Select Today.
+msgid "Select Today"
+msgstr "आज चुनें"
+
+#. Applications: menu
+#. Context: Main menu – System tools - SELinux Troubleshooter. Opens the SELinux Troubleshooter.
+msgid "SELinux Troubleshooter"
+msgstr "एसईलिनक्स विघ्ननिवारक"
+
+#. Applications: firefox
+#. Context: Firefox – File – Send link. Opens an email composition window using your computer's default email program so you can send a message with a link to the current page.
+msgid "Send Link"
+msgstr "कड़ी भेजें"
+
+#. Applications: evolution
+#. Context: Evolution – Mail – File – Send/Receive. Send or receive message.
+msgid "Send/Receive"
+msgstr "भेजें/पाएँ"
+
+#. Applications: gedit
+#. Context: Gedit – Tools – Set language. Sets a language
+msgid "Set Language"
+msgstr "भाषा तय करें"
+
+#. Applications: gnometerminal
+#. Context: Terminal – Terminal – Set title. Sets the title for the terminal.
+msgid "Set Title"
+msgstr "शीर्षक तय करें"
+
+#. Applications: gnometerminal
+#. Context: Terminal – View – Show Menubar. Show or hide the menubar.
+msgid "Show Menubar"
+msgstr "मेन्यूपट्टी दिखाएँ"
+
+#. Applications: gdmpaneldesktop
+#. Context: Gdm – Shutdown. Shutdown the computer.
+msgid "Shut Down"
+msgstr "बंद करें"
+
+#. Applications: gedit
+#. Context: Gedit – View – Side pane. To show or hide the side pane.
+msgid "Side Pane"
+msgstr "बाज़ू फलक"
+
+#. Applications: openoffice
+#. Context: Open office – Ooimpress – format – Slide Design. Selects the medium and the background of your presentation.
+msgid "Slide Design"
+msgstr "स्लाइड डिज़ाइन"
+
+#. Applications: openoffice
+#. Context: Open office – Ooimpress – format – Slide Layout. Selects the silde layout of your presentation.
+msgid "Slide Layout"
+msgstr "स्लाइड ख़ाका"
+
+#. Applications: openoffice
+#. Context: Open office – Ooimpress – View – Slide pane. Whether to view the slide pane.
+msgid "Slide Pane"
+msgstr "स्लाइड फलक"
+
+#. Applications: openoffice
+#. Context: Open office – Ooimpress – Slide show. To view the slide show and that related setting menu.
+msgid "Slide Show"
+msgstr "स्लाइड शो"
+
+#. Applications: openoffice
+#. Context: Open office – Ooimpress – View – Slide sorter. Whether to view the slide sorter
+msgid "Slide Sorter"
+msgstr "स्लाइड छाँटक"
+
+#. Applications: openoffice
+#. Context: Open office – Ooimpress – Slide show – Slide transition. Applies a transition to a selected slides
+msgid "Slide Transition"
+msgstr "स्लाइड संक्रमण"
+
+#. Applications: menu
+#. Context: Main menu – System - Preferences – Software updater. Settings for software updates
+msgid "Software Updater"
+msgstr "सॉफ़्टवेयर अद्यतक"
+
+#. Applications: pidgin
+#. Context: Pidgin – Sort Buddies. Sort the list of buddies in particular order.
+msgid "Sort Buddies"
+msgstr "दोस्त छाँटें"
+
+#. Applications: openoffice
+#. Context: Open office – Insert - Special Character. Inserts Special Characters in the document.
+msgid "Special Character"
+msgstr "विशेष वर्ण"
+
+#. Applications: openoffice
+#. Context: Open office – Oowriter – Table - Split Cell. Splits the selected cell in the table.
+msgid "Split Cell"
+msgstr "कोष्ठ अलगाएँ"
+
+#. Applications: openoffice
+#. Context: Open office – Oowriter – Table - Split Table. Splits the selected table.
+msgid "Split Table"
+msgstr "सारणी अलगाएँ"
+
+#. Applications: nautilus
+#. Context: Nautilus – Edit – Stretch Icon. You can Stretch the Icon.
+msgid "Stretch Icon"
+msgstr "प्रतीक फैलाएँ"
+
+#. Applications: openoffice
+#. Context: Open office – Ooimpress – Insert - Summary Slide. Inserts the Summary Slide.
+msgid "Summary Slide"
+msgstr "सारांश स्लाइड"
+
+#. Applications: evolution
+#. Context: Evolution – View – Switcher appearance.
+msgid "Switcher Appearance"
+msgstr "स्विचर रूपाकार"
+
+#. Applications: evolution
+#. Context: Evolution – Edit - Synchronization Options. Sets the Synchronization Options.
+msgid "Synchronization Options"
+msgstr "तुल्यकालन विकल्प"
+
+#. Applications: menu, pidgin
+#. Context: Pidgin – Tools – System Log. Logs the system events.
+msgid "System Log"
+msgstr "तंत्र लॉग"
+
+#. Applications: menu
+#. Context: Main menu – System tools – System monitor. Opens the system monitor application to see the process and memory
+msgid "System Monitor"
+msgstr "तंत्र मॉनीटर"
+
+#. Applications: menu
+#. Context: Main menu – System tools. Contains some system configuration tools
+msgid "System Tools"
+msgstr "तंत्र औज़ार"
+
+#. Applications: openoffice
+#. Context: Open office – Oowriter – Table - Table Boundaries. Sets the Table Boundaries
+msgid "Table Boundaries"
+msgstr "सारणी सीमा"
+
+#. Applications: openoffice
+#. Context: Open office – Oowriter – Table - Table Properties. Sets the Table Properties
+msgid "Table Properties"
+msgstr "सारणी गुण"
+
+#. Applications: menu
+#. Context: Main menu – Accessories – Take Screenshot. Captures the current screen.
+msgid "Take Screenshot"
+msgstr "स्क्रीनशॉट लें"
+
+#. Applications: openoffice
+#. Context: Open office – Ooimpress – View – Task pane. Show or hide the Task pane.
+msgid "Task Pane"
+msgstr "कार्य फलक"
+
+#. Applications: menu
+#. Context: Main menu – Accessories – Text editor. Opens Gedit application.
+msgid "Text Editor"
+msgstr "पाठ संपादक"
+
+#. Applications: firefox
+#. Context: Firefox – View – Text size. To change the size of the Text in a page.
+msgid "Text Size"
+msgstr "पाठ आकार"
+
+#. Applications: menu
+#. Context: Main menu – Graphics – The GIMP. Opens the Gimp application.
+msgid "The GIMP"
+msgstr "गिम्प"
+
+#. Applications: menu
+#. Context: Main menu – Internet – Thunderbird Email. Opens the Thunderbird application.
+msgid "Thunderbird Email"
+msgstr "थंडरवर्ड ईमेल"
+
+#. Applications: evolution
+#. Context: Evolution – Mail – Edit – Undelete message. From the trash folder if select a message and click this option it 'll restore back the message.
+msgid "Undelete Message"
+msgstr "मिटा संदेश वापस लाएँ"
+
+#. Applications: gedit
+#. Context: Gedit - Unsaved Document.
+msgid "Unsaved Document"
+msgstr "बिन सहेजा दस्तावेज़"
+
+#. Applications: gdmpaneldesktop
+#. Context: GDM – Enter your user name to login.
+msgid "User Name"
+msgstr "उपयोक्ता नाम"
+
+#. Applications: openoffice
+#. Context: Open office – oocalc – View - Value Highlighting. Whether to Highlight the value.
+msgid "Value Highlighting"
+msgstr "मान आलोकन"
+
+#. Applications: menu
+#. Context: Main menu – Accessories – Vi Improved. Opens the Vi editor.
+msgid "Vi Improved"
+msgstr "बेहतर वीआई"
+
+#. Applications: menu
+#. Context: Main menu – System - Preferences – Volume control. Setting up the volume control.
+msgid "Volume Control"
+msgstr "आवाज़ निर्धारण"
+
+#. Applications: firefox
+#. Context: Firefox – View – Web search. Show the web search bar in the right corner
+msgid "Web Search"
+msgstr "वेब खोज"
+
+#. Applications: evolution
+#. Context: Evolution – Calender – View – current – Week view.
+msgid "Week View"
+msgstr "साप्ताहिक दृश्य"
+
+#. Applications: openoffice
+#. Context: Open office – Help – What's this. Gives the tools tip help when mouse over the button.
+msgid "What's This"
+msgstr "ये क्या है"
+
+#. Applications: evolution
+#. Context: Evolution – Mail – View – Current view – With status.
+msgid "With Status"
+msgstr "स्थिति सहित"
+
+#. Applications: openoffice
+#. Context: Open office – Oowriter – Word count. Counts the no of word in the document.
+msgid "Word Count"
+msgstr "शब्द गिनती"
+
+#. Applications: menu
+#. Context: Main menu – Office – Word processor. Opens oowriter application.
+msgid "Word Processor"
+msgstr "शब्द संसाधक"
+
+#. Applications: evolution, firefox
+#. Context: Firefox – File – Work offline. Toggles between online and offline mode.
+msgid "Work Offline"
+msgstr "ऑफ़लाइन काम करें"
+
+#. Applications: evolution
+#. Context: Evolution – View – Work week. Shows the work week view.
+msgid "Work Week"
+msgstr "कार्य सप्ताह"
+
+#. Applications: gnometerminal, nautilus
+#. Context: Terminal – View – Zoom in. Increases the Window size.
+msgid "Zoom In"
+msgstr "बड़ा करें"
+
+#. Applications: gnometerminal, nautilus
+#. Context: Terminal – View – Zoom out. Decreases the Window size.
+msgid "Zoom Out"
+msgstr "छोटा करें"
+
+#. Applications: gnometerminal
+#. Context: Terminal – Terminal – Set character encoding – Add or remove. This is used to adding or removing the Terminal encodings.
+msgid "Add or Remove"
+msgstr "जोड़ें या हटाएँ"
+
+#. Applications: evolution
+#. Context: Evolution – Mail – Message - Add Sender to Address Book
+msgid "Add Sender to Address Book"
+msgstr "पता पुस्तिका में प्रेषक जोड़ें"
+
+#. Applications: gdmpaneldesktop
+#. Context: Right click on panel and add any items to the panel
+msgid "Add to Panel"
+msgstr "पटल में जोडें"
+
+#. Applications: menu
+#. Context: Main menu – System – Administration – Add/Remove Software. Install or uninstall the software in the system.
+msgid "Add/Remove Software"
+msgstr "सॉफ़्टवेयर जोड़ें/हटाएँ"
+
+#. Applications: evolution
+#. Context: Evolution – Contact - Actions – Address Book properties. Adding the properties of the Address Book
+msgid "Address Book Properties"
+msgstr "पता पुस्तिका गुण"
+
+#. Applications: evolution
+#. Context: Right click on panel and you can add any items to the panel
+msgid "All Message Headers"
+msgstr "सभी संदेश शीर्षिकाएँ"
+
+#. Applications: menu
+#. Context: Main menu – System – preferences - Assistive Technology preferences. Use the Assistive Technologies preference tool to enable assistive technologies in the GNOME Desktop.
+msgid "Assistive Technology Preferences"
+msgstr "सहायक प्रौद्योगिकी वरीयताएँ"
+
+#. Applications: nautilus
+#. Context: Nautilus – Edit – Backgrounds and Emblems. Adding background and emblems
+msgid "Backgrounds and Emblems"
+msgstr "पृष्ठभूमि और निशान"
+
+#. Applications: firefox
+#. Context: Firefox – Bookmark – Bookmark all Tabs. To bookmark all the opened Tabs.
+msgid "Bookmark All Tabs"
+msgstr "सभी टैब पुस्तचिह्नित करें"
+
+#. Applications: firefox
+#. Context: Firefox – Bookmark – Bookmark This Page. To bookmark the Current opened page.
+msgid "Bookmark This Page"
+msgstr "यह पृष्ठ पुस्तचिह्नित करें"
+
+#. Applications: openoffice
+#. Context: Open office – Oowriter – Format - Bullets and Numbering. Displays the different bullet styles that you can apply.
+msgid "Bullets and Numbering"
+msgstr "बुलेट और क्रमांकन"
+
+#. Applications: menu, nautilus
+#. Context: Main menu – System tools – CD/DVD creator. Opens the CD/DVD creator file browser.
+msgid "CD/DVD Creator"
+msgstr "सीडी/डीवीडी सर्जक"
+
+#. Applications: gdmpaneldesktop
+#. Context: Main Menu - System – preference – Display. To configure the display.
+msgid "Change Desktop Background"
+msgstr "डेस्कटॉप पृष्ठभूमि बदलें"
+
+#. Applications: evolution
+#. Context: Evolution – Mail – Messages - Check for Junk. Checking for junk mails
+msgid "Check for Junk"
+msgstr "कचरा डाक देखें"
+
+#. Applications: firefox
+#. Context: Firefox – Help – Check for updates. Displays a dialog which checks for updates to Firefox and asks you whether you want to download updates if any are available
+msgid "Check for Updates"
+msgstr "अद्यतन जाँच"
+
+#. Applications: gdmpaneldesktop
+#. Context: Right click on desktop - Clean UP by Name
+msgid "Clean Up by Name"
+msgstr "नामों के अनुसार साफ करें"
+
+#. Applications: nautilus
+#. Context: Right click on nautilus - Clean UP by Names
+msgid "Clean Up by Names"
+msgstr "नामों के अनुसार साफ करें"
+
+#. Applications: nautilus
+#. Context: Nautilus – File – Close all Folders. Closes all the folders
+msgid "Close All Folders"
+msgstr "सभी फ़ोल्डर बंद करें"
+
+#. Applications: nautilus
+#. Context: Nautilus – File – Close parent Folders. Closes the parent folders
+msgid "Close Parent Folders"
+msgstr "मूल फ़ोल्डर बंद करें"
+
+#. Applications: evolution
+#. Context: Evolution – Mail – View - Collapse All Threads.
+msgid "Collapse All Threads"
+msgstr "सभी लड़ियाँ समेटें"
+
+#. Applications: openoffice
+#. Context: Open office – Oocalc – View - Column & Row Headers
+msgid "Column & Row Headers"
+msgstr "स्तंभ व पंक्ति शीर्षिका"
+
+#. Applications: evolution
+#. Context: Evolution – Mail – Message - Compose New Message. Composes a new message.
+msgid "Compose New Message"
+msgstr "नया संदेश लिखें"
+
+#. Applications: menu, nautilus
+#. Context: Main menu – Place – Connect to server. Connect to server dialog 'll open. There you can configure the server to be connected.
+msgid "Connect to Server"
+msgstr "सर्वर से जुड़ें"
+
+#. Applications: evolution
+#. Context: Evolution – Contacts – Actions- Copy All Contact to. Copies all the contacts to specified place.
+msgid "Copy All Contact to"
+msgstr "सभी संपर्कों की नक़ल यहाँ लें"
+
+#. Applications: evolution
+#. Context: Evolution – Contacts – Actions- Copy Contact to. Copies the selected contacts to specified place.
+msgid "Copy Contact to"
+msgstr "संपर्क की नक़ल यहाँ लें"
+
+#. Applications: evolution
+#. Context: Evolution – Mail – Folder- Copy Folder to. Copies selected Folder to specified place.
+msgid "Copy Folder To..."
+msgstr "फ़ोल्डर की नक़ल यहाँ लें..."
+
+#. Applications: evolution
+#. Context: Evolution – Mail – Message - Copy to Folder. Copies the mesages to the folder.
+msgid "Copy to Folder"
+msgstr "फ़ोल्डर में नक़ल लें"
+
+#. Applications: evolution
+#. Context: Evolution – Mail – Search - Create Search Folder from Search.
+msgid "Create Search Folder from Search"
+msgstr "खोज से खोज फोल्डर बनाएँ"
+
+#. Applications: openoffice
+#. Context: Open office – ooimpress – Slide show – Custom Slide show. Runs the custom slide show you selected when you click Start
+msgid "Custom Slide Show"
+msgstr "मनपसंद स्लाइड शो"
+
+#. Applications: menu
+#. Context: Main menu – System – Administration – Date & Time. Configures the system Date & Time.
+msgid "Date & Time"
+msgstr "तिथि व समय"
+
+#. Applications: gdmpaneldesktop
+#. Context: Gdm - Sets the default system session.
+msgid "Default System Session"
+msgstr "तयशुदा तंत्र सत्र"
+
+#. Applications: openoffice
+#. Context: open office -oowriter – Insert - Delete Manual Break. Deletes the manual page break.
+msgid "Delete Manual Break"
+msgstr "दस्ती अंतराल मिटाएँ"
+
+#. Applications: gdmpaneldesktop
+#. Context: Right click on panel and you can delete the panel.
+msgid "Delete This Panel"
+msgstr "यह पटल मिटाएँ"
+
+#. Applications: menu
+#. Context: Main menu – System tools -Disk Usage Analyzer. Opens Disk Usage Analyzer
+msgid "Disk Usage Analyzer"
+msgstr "डिस्क उपयोग विश्लेषक"
+
+#. Applications: evolution
+#. Context: Evolution – Message - Edit as New Message.
+msgid "Edit as New Message"
+msgstr "नए संदेश के रूप में संपादित करें"
+
+#. Applications: evolution
+#. Context: Evolution – Search - Edit Saved Search. Edits the saved search.
+msgid "Edit Saved Search"
+msgstr "सहेजे खोज संपादित करें"
+
+#. Applications: evolution
+#. Context: Firefox – Bookmark – Bookmark This Page. To bookmark the Current opened page.
+msgid "Expand All Threads"
+msgstr "सभी लड़ियाँ फैलाएँ"
+
+#. Applications: openoffice
+#. Context: Open office – Oowriter – File – Export as PDF. Saves the current file to Portable Document Format (PDF) version
+msgid "Export as PDF"
+msgstr "बतौर पीडीएफ़ निर्यात करें"
+
+#. Applications: openoffice
+#. Context: Open office – Edit – Find & replace. Searches for or replaces text or formats in the current document.
+msgid "Find & Replace"
+msgstr "ढूँढें व बदलें"
+
+#. Applications: evolution
+#. Context: Evolution – Mail – Edit – Find in Message.
+msgid "Find in Message"
+msgstr "संदेश में ढूँढें"
+
+#. Applications: firefox
+#. Context: Firefox – Edit – Find in this page. Displays the Find Toolbar at the bottom of the browser window. Enter the text you wish to find in the toolbar, and as you type Firefox will automatically find and select the first occurrence of the entered text on the page.
+msgid "Find in This Page"
+msgstr "इस पृष्ठ में ढूँढें"
+
+#. Applications: menu
+#. Context: Main menu – Internet – Firefox web browser. Opens the Firefox application
+msgid "Firefox Web Browser"
+msgstr "फ़ायरफ़ॉक्स वेब ब्राउज़र"
+
+#. Applications: pidgin
+#. Context: Pidgin – Buddies – Get user info.
+msgid "Get User Info"
+msgstr "उपयोक्ता सूचना लें"
+
+#. Applications: gedit
+#. Context: Gedit – Search – Go to Line. Goes to the particular line.
+msgid "Go to Line"
+msgstr "पंक्ति पर जाएँ"
+
+#. Applications: evolution
+#. Context: Evolution – Mail – View – Group By Threads.
+msgid "Group By Threads"
+msgstr "लड़ीवार समूह बनाएँ"
+
+#. Applications: menu
+#. Context: Main menu – Graphics – Gthumb image viewer. Opens Gthumb application.
+msgid "Gthumb Image Viewer"
+msgstr "जीथंब छवि प्रदर्शक"
+
+#. Applications: openoffice
+#. Context: Open office – Edit – Headers & Footers. Edits the inserted headers and footers
+msgid "Headers & Footers"
+msgstr "शीर्षिका व पादिका"
+
+#. Applications: evolution
+#. Context: Evolution – Mail – View - Hide Deleted Messages
+msgid "Hide Deleted Messages"
+msgstr "मिटाए संदेश छुपाएँ"
+
+#. Applications: evolution
+#. Context: Evolution – Mail – View - Hide Read Messages
+msgid "Hide Read Messages"
+msgstr "पठित संदेश छुपाएँ"
+
+#. Applications: evolution
+#. Context: Evolution – Mail – View - Hide Selected Messages
+msgid "Hide Selected Messages"
+msgstr "चुने संदेश छिपाएँ"
+
+#. Applications: openoffice
+#. Context: Open office – Oowriter – Insert – Indexes and tables. Marks the selected text as index or table of contents entry.
+msgid "Indexes and Tables"
+msgstr "अनुक्रमणिका व सारणी"
+
+#. Applications: openoffice
+#. Context: Open office – Oowriter – View – Input method status. Shows or hides the Input Method Engine (IME) status window.
+msgid "Input Method Status"
+msgstr "इनपुट विधि स्थिति"
+
+#. Applications: gedit
+#. Context: Gedit – Edit - Insert Date and Time
+msgid "Insert Date and Time"
+msgstr "तिथि व समय डालें"
+
+#. Applications: menu
+#. Context: Main menu – Internet - IP Telephony, VoIP and Video Conferencing. Opens the ekiga application .
+msgid "IP Telephony, VoIP and Video Conferencing"
+msgstr "आईपी टेलिफोनी, वीओआईपी और वीडियो सम्मेलन"
+
+#. Applications: openoffice
+#. Context: Open office – Oocalc – Insert – Link to External Data.
+msgid "Link to External Data"
+msgstr "बाहरी आँकड़े से जुड़ें"
+
+#. Applications: gdmpaneldesktop
+#. Context: Right click on the item on the Panel – Lock to panel. Locks the items to the panel
+msgid "Lock To Panel"
+msgstr "पटल में बाँधें"
+
+#. Applications: menu
+#. Context: Main menu - Log Out root. Logout from root login.
+msgid "Log Out root"
+msgstr "रूट लॉग आउट"
+
+#. Applications: menu
+#. Context: Main menu – System – Administration - Logical Volume Management. Configures the logical volume management.
+msgid "Logical Volume Management"
+msgstr "लॉजिकल आयतन प्रबंधन"
+
+#. Applications: openoffice
+#. Context: Open office -oowriter – Tools - Mail Merge Wizard.
+msgid "Mail Merge Wizard"
+msgstr "डाक मिलान सहायक"
+
+#. Applications: evolution
+#. Context: Evolution – Mail – Folder - Mark All Message as Read
+msgid "Mark All Messages as Read"
+msgstr "सभी संदेश बतौर पठित चिह्नित करें"
+
+#. Applications: menu
+#. Context: Main menu – System – Preferences - Menus & Toolbars.
+msgid "Menus & Toolbars"
+msgstr "मेन्यू व औज़ारपट्टी"
+
+#. Applications: evolution
+#. Context: Evolution – Contacts – Actions- Move All Contact to. Moves all the contacts to specified place.
+msgid "Move All Contact to"
+msgstr "सभी संपर्क यहाँ खिसकाएँ"
+
+#. Applications: evolution
+#. Context: Evolution – Contacts – Actions- Move Contact to. Moves the selected contacts to specified place.
+msgid "Move Contact to"
+msgstr "संपर्क यहाँ खिसकाएँ"
+
+#. Applications: evolution
+#. Context: Evolution – Mail – Folder - Move Folder to. Moves the selected folder to specified place.
+msgid "Move Folder To..."
+msgstr "यहाँ फ़ोल्डर खिसकाएँ..."
+
+#. Applications: gnometerminal
+#. Context: Terminal – Tabs - Move tab to the Left.
+msgid "Move Tab to the Left"
+msgstr "टैब बाएँ खिसकाएँ"
+
+#. Applications: gnometerminal
+#. Context: Terminal – Tabs - Move tab to the Right.
+msgid "Move Tab to the Right"
+msgstr "टैब दाएँ खिसकाएँ"
+
+#. Applications: evolution
+#. Context: Evolution – Mail – Message - Move to Folder
+msgid "Move to Folder"
+msgstr "फ़ोल्डर में ले जाएँ"
+
+#. Applications: gedit
+#. Context: Gedit – Document - Move to New Window. Move the current document to new window.
+msgid "Move to New Window"
+msgstr "नए विंडो में ले जाएँ"
+
+#. Applications: nautilus
+#. Context: Nautilus – Edit - Move to Trash. Move the selected item to the trash.
+msgid "Move to Trash"
+msgstr "रद्दी में डालें"
+
+#. Applications: openoffice
+#. Context: Open office – Insert - Movie and Sound. Inserts a video or sound file into your document.
+msgid "Movie and Sound"
+msgstr "चलचित्र व ध्वनि"
+
+#. Applications: menu
+#. Context: Main Menu – System - Preferences – Multimedia System Selector.
+msgid "Multimedia System Selector"
+msgstr "मल्टीमीडिया तंत्र चयनक"
+
+#. Applications: pidgin
+#. Context: Pidgin – Buddies - New Instant Message. Send a new instant message to buddies.
+msgid "New Instant Message"
+msgstr "नया फ़ौरी संदेश"
+
+#. Applications: evolution
+#. Context: Evolution – Mail – On this computer.
+msgid "On This Computer"
+msgstr "इस कंप्यूटर पर"
+
+#. Applications: openoffice
+#. Context: Open office – Ooimpress – First screen - Open existing presentation. Opens the existing presentation.
+msgid "Open Existing Presentation"
+msgstr "मौजूदा प्रस्तुति खोलें"
+
+#. Applications: evolution
+#. Context: Evolution – Mail – Message - Open in New Window. Open the message in new window.
+msgid "Open in New Window"
+msgstr "नए विंडो में खोलें"
+
+#. Applications: nautilus
+#. Context: Nautilus – File - Open in Terminal. Open the current location on Terminal.
+msgid "Open in Terminal"
+msgstr "टर्मिनल में खोलें"
+
+#. Applications: openoffice
+#. Context: Open office – View – Page break preview. Display the page breaks and print ranges in the sheet.
+msgid "Page Break Preview"
+msgstr "पृष्ठ अंतराल पूर्वावलोकन"
+
+#. Applications: menu
+#. Context: Main Menu – System - Preferences – Personal File Sharing. Configures the personal file sharing.
+msgid "Personal File Sharing"
+msgstr "निजी फ़ाइल साझेदारी"
+
+#. Applications: firefox
+#. Context: Firefox – Bookmark - Manage Bookmarks - Personal Toolbar Folder. When you add a bookmark in your personal toolbar folder, that site title and icon will appear in the personal toolbar under the address bar.
+msgid "Personal Toolbar Folder"
+msgstr "निजी औज़ारपट्टी फ़ोल्डर"
+
+#. Applications: gdmpaneldesktop
+#. Context: Gdm - Please enter your user name. Here you have to enter your user name to enter into the login to your system.
+msgid "Please enter your user name"
+msgstr "कृपया अपना उपयोक्ता नाम भरें"
+
+#. Applications: openoffice
+#. Context: Open office -oowriter – Format – Position and Size. Resizes or moves the selected object.
+msgid "Position and Size"
+msgstr "स्थिति और आकार"
+
+#. Applications: evolution
+#. Context: Evolution – Mail – message - Post a Reply
+msgid "Post a Reply"
+msgstr "जवाब दें"
+
+#. Applications: evolution
+#. Context: Evolution – Mail – message - Post New Message to Folder
+msgid "Post New Message to Folder"
+msgstr "नया संदेश फोल्डर में डालें"
+
+#. Applications: evolution
+#. Context: Evolution - Calendar – Action - Publish calender Information
+msgid "Publish Calendar Information"
+msgstr "पंचांग सूचना प्रकाशित करें"
+
+#. Applications: menu
+#. Context: Main menu – System – Preferences -Removable Drives and Media. Configures the Removable Drives and Media
+msgid "Removable Drives and Media"
+msgstr "विस्थापनीय ड्राइव और मीडिया"
+
+#. Applications: gdmpaneldesktop
+#. Context: Right click on item in the panel and you can remove them from the panel.
+msgid "Remove From Panel"
+msgstr "पटल से मिटाएँ"
+
+#. Applications: evolution
+#. Context: Evolution – Mail – Message – Reply to all.
+msgid "Reply to All"
+msgstr "सबको जवाब दें"
+
+#. Applications: evolution
+#. Context: Evolution – Mail – Message - Reply to List
+msgid "Reply to List"
+msgstr "सूची को जवाब दें"
+
+#. Applications: evolution
+#. Context: Evolution – Mail – Message - Reply to Sender
+msgid "Reply to Sender"
+msgstr "प्रेषक को जवाब दें"
+
+#. Applications: firefox
+#. Context: Firefox – Help - Report broken Web Site. Allows you to report web sites that do not work correctly in Firefox to the Firefox developers.
+msgid "Report Broken Web Site"
+msgstr "खंडित वेबसाइट रिपोर्ट करें"
+
+#. Applications: gnometerminal
+#. Context: Terminal – Terminal – Reset and clear.
+msgid "Reset and Clear"
+msgstr "रीसेट और साफ करें"
+
+#. Applications: nautilus
+#. Context: Nautilus – View - Reset View to Defaults.
+msgid "Reset View to Defaults"
+msgstr "दृश्य तयशुदा में सेट करें"
+
+#. Applications: nautilus
+#. Context: Nautilus – Edit - Restore Icon's Original Size. If the icon is stretch it 'll restore to the original size.
+msgid "Restore Icon's Original Size"
+msgstr "प्रतीक का मौलिक आकार बहाल करें"
+
+#. Applications: menu
+#. Context: Main Menu – Sound & video - Rhythmbox Music Player. Opens Rhythmbox Music Player application.
+msgid "Rhythmbox Music Player"
+msgstr "रिदमबॉक्स संगीत प्लेयर"
+
+#. Applications: firefox
+#. Context: Firefox – File - Save Frame As. If the website contains frames. You can save the frame as some file format
+msgid "Save Frame As"
+msgstr "फ़्रेम ऐसे सहेजें"
+
+#. Applications: evolution
+#. Context: Evolution – Mail – File – Save message. Saves the composed message.
+msgid "Save Message"
+msgstr "संदेश सहेजें"
+
+#. Applications: firefox
+#. Context: Firefox – File - Save Pages as. Saves the page you are currently browsing.
+msgid "Save Page As"
+msgstr "पृष्ठ ऐसे सहेजें"
+
+#. Applications: menu
+#. Context: Main Menu - System – preference – SCIM Input Method Setup. To configure the SCIM Input Method Setup.
+msgid "SCIM Input Method Setup"
+msgstr "स्किम इनपुट विधि सेटअप"
+
+#. Applications: menu
+#. Context: Main menu – Place – Search for files. Searching files and folder in the system.
+msgid "Search for Files"
+msgstr "फाइलें खोजें"
+
+#. Applications: menu
+#. Context: Main Menu - System – preference – Display. To configure the display.
+msgid "Security Level and Firewall"
+msgstr "सुरक्षा स्तर व लक्ष्मण रेखा"
+
+#. Applications: evolution
+#. Context: Evolution – Folder - Select All Messages. Selects all the messages in the folder
+msgid "Select All Messages"
+msgstr "सभी संदेश चुनें"
+
+#. Applications: evolution
+#. Context: Evolution – Edit - Select All Text. Selects all the text in the message.
+msgid "Select All Text"
+msgstr "सारा पाठ चुनें"
+
+#. Applications: evolution
+#. Context: Evolution – Folder - Select Message Thread. Select the message thread.
+msgid "Select Message Thread"
+msgstr "संदेश लड़ी चुनें"
+
+#. Applications: evolution
+#. Context: Evolution – Contacts – Actions- Send message to contact.
+msgid "Send Message to Contact"
+msgstr "संपर्क को संदेश भेजें"
+
+#. Applications: gnometerminal
+#. Context: Terminal – Terminal - Set Character Encoding. Sets the encoding.
+msgid "Set Character Encoding"
+msgstr "वर्ण ऐन्कोडिंग तय करें"
+
+#. Applications: openoffice
+#. Context: Open office – oocalc – Insert - Sheet From File. Inserts a sheet from a different spreadsheet file.
+msgid "Sheet From File"
+msgstr "फ़ाइल से शीट"
+
+#. Applications: pidgin
+#. Context: Pidgin – Buddies – Show Empty group. Shows the Empty group.
+msgid "Show Empty Groups"
+msgstr "रिक्त समूह दिखाएँ"
+
+#. Applications: nautilus
+#. Context: Nautilus – View - Show Hidden Files. Shows the hidden files
+msgid "Show Hidden Files"
+msgstr "छुपी फ़ाइलें दिखाएँ"
+
+#. Applications: evolution
+#. Context: Evolution – View - Show Hidden Messeges. Shows the hidden messages
+msgid "Show Hidden Messages"
+msgstr "छुपे संदेश दिखाएँ"
+
+#. Applications: pidgin
+#. Context: Pidgin – Buddies – Show Idle Times. Shows the Idle times.
+msgid "Show Idle Times"
+msgstr "निष्क्रिय समय दिखाएँ"
+
+#. Applications: pidgin
+#. Context: Pidgin – Buddies – Show offline buddies. Shows the buddies who are offline.
+msgid "Show Offline Buddies"
+msgstr "ऑफलाइन दोस्त दिखाएँ"
+
+#. Applications: openoffice
+#. Context: Open office – Ooimpress – Show/Hide Slide. Whether to show or hide a particular slide.
+msgid "Show/Hide Slide"
+msgstr "स्लाइड दिखाएँ/छिपाएँ"
+
+#. Applications: openoffice
+#. Context: Open office – Ooimpress – Slide show – Slide show settings. Sets the slide show options.
+msgid "Slide Show Settings"
+msgstr "स्लाइड शो सेटिंग"
+
+#. Applications: menu
+#. Context: Main menu – System – Administration - Smart Card Manager. Configures the Smart Card Manager.
+msgid "Smart Card Manager"
+msgstr "स्मार्ट कार्ड प्रबंधक"
+
+#. Applications: menu
+#. Context: Main Menu – Sound & video. Contains sound & video applications
+msgid "Sound & Video"
+msgstr "ध्वनि व वीडियो"
+
+#. Applications: menu
+#. Context: Main Menu – Sound & video - Sound Juicer CD Extractor. Opens Sound Juicer CD Extractor application.
+msgid "Sound Juicer CD Extractor"
+msgstr "साउंड जूसर सीडी दोहक"
+
+#. Applications: menu
+#. Context: Main Menu – System - Preferences – Sound card Detection. Configures the sound card.
+msgid "Soundcard Detection"
+msgstr "ध्वनिकार्ड पहचान"
+
+#. Applications: openoffice
+#. Context: Open office – Format - Styles and Formatting. Applies the selected styles and formatting to the selected area.
+msgid "Styles and Formatting"
+msgstr "शैली व प्रारूपण"
+
+#. Applications: evolution
+#. Context: Evolution – Help - Submit Bug Report
+msgid "Submit Bug Report"
+msgstr "दोष रपट दर्ज करें"
+
+#. Applications: evolution
+#. Context: Evolution – Help - Subscribe to Other User's Folder
+msgid "Subscribe to Other User's Folder"
+msgstr "अन्य उपयोक्ता फोल्डर की सदस्यता लें"
+
+#. Applications: menu
+#. Context: Main menu – Internet – Terminal Server Client.
+msgid "Terminal Server Client"
+msgstr "टर्मिनल सर्वर क्लाएंट"
+
+#. Applications: menu
+#. Context: Main menu – System – Administration - Users and Groups.
+msgid "Users and Groups"
+msgstr "उपयोक्ता व समूह"
+
+#. Applications: nautilus
+#. Context: Nautilus – View - View as Icons. Shows the files/folders as Icons
+msgid "View as Icons"
+msgstr "प्रतीक रूप में देखें"
+
+#. Applications: nautilus
+#. Context: Nautilus – View - View as list. Shows the files/folders as list
+msgid "View as List"
+msgstr "सूची रूप में देखें"
+
+#. Applications: pidgin
+#. Context: Pidgin – Buddies – View user log. Show the chat log of user you chat.
+msgid "View User Log"
+msgstr "उपयोक्ता लॉग देखें"
+
+#. Applications: evolution
+#. Context: Evolution - Task – View – Current view – With due date.
+msgid "With Due Date"
+msgstr "नियत तिथि सहित"
+
+#. Applications: evolution
+#. Context: Evolution - Calendar – View – Current view - Work Week View
+msgid "Work Week View"
+msgstr "कार्य सप्ताह दृश्य"
+
+#. Applications: openoffice
+#. Context: Open office – Oowriter – Tools – XML Filter settings. Opens the XML Filter Settings dialog, where you can create, edit, delete, and test filters to import and to export XML files.
+msgid "XML Filter Settings"
+msgstr "एक्सएमएल फ़िल्टर सेटिंग"
+
+#~ msgid "Go To"
+#~ msgstr "यहाँ जाएँ"
+
+#~ msgid "Clean UP by Name"
+#~ msgstr "नामानुसार साफ करें"
